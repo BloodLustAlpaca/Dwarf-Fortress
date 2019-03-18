@@ -1,0 +1,49 @@
+{
+    "gamelogPath": "..\\..\\..\\Dwarf Fortress 0.44.12",
+    "expectedMinimalSoundsCound": 0,
+    "autoUpdateURLs": [
+        "http://df.zweistein.cz/soundsense/soundpack",
+        "http://www.armedassault.info/_hosted/soundsense/au"
+    ],
+    "volume": 0.0,
+    "playbackThreshold": 4,
+    "replaceFiles": true,
+    "mutedChannels": [],
+    "gui": true,
+    "noWarnAbsolutePaths": false,
+    "Channels": [
+        {
+            "Mute": false,
+            "Volume": 1.0,
+            "Channel": "weather"
+        },
+        {
+            "Mute": false,
+            "Volume": 1.0,
+            "Channel": "music"
+        },
+        {
+            "Mute": false,
+            "Volume": 1.0,
+            "Channel": "swords"
+        },
+        {
+            "Mute": false,
+            "Volume": 1.0,
+            "Channel": "trade"
+        },
+        {
+            "Mute": false,
+            "Volume": 1.0,
+            "Channel": "sfx"
+        }
+    ],
+    "allowPackOverride": true,
+    "supplementalLogs": [],
+    "achievements": false,
+    "deleteFiles": true,
+    "disabledSounds": [],
+    "autoDetect": true,
+    "soundpacksPath": "../Soundsense/packs/",
+    "gamelogEncoding": "Cp850"
+}

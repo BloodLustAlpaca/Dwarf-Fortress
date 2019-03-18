@@ -1,0 +1,69 @@
+[size=14pt][b]Contents:[/b][/size]
+
+[b]Core:[/b]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=&board=10]Dwarf Fortress 0.44.12[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=140808]PyLNP 0.13b[/url]
+
+[b][url=http://www.bay12forums.com/smf/index.php?topic=139553]DFHack 0.44.12-r2[/url]:[/b]  (includes [url=http://www.bay12forums.com/smf/index.php?topic=106497]Stonesense[/url])
+ - [url=http://www.bay12forums.com/smf/index.php?topic=138754]TwbT v6.57[/url]
+
+[b]Utilities:[/b]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=146473]Armok Vision v0.19.1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=128570]DF Story Maker 1.0[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=138366]Dorven Realms R1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=143546]Dwarf Mockup DwarfMockup[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=158930]Dwarf Portrait v2.1.0[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=168411]Dwarf Therapist v41.0.3[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=70700]Isoworld 2.1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=155307]Legends Browser 1.17.1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=154617]Legends Viewer 1.19.10[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=57428]PerfectWorld 1.9[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=138590]Picturefort 2.1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=35931]Quickfort 2.1.0[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=159567]SoundCenSe 1.4.4[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=60287]Soundsense 2016-1[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=128932]World Viewer 2.5.0[/url]
+
+[b]Graphics:[/b]
+ - ASCII
+ - [url=http://www.bay12forums.com/smf/index.php?topic=105376]CLA[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=152766]DungeonSet[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=150753]GemSet[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=53180]Ironhand[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=137370]Mayday[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=161047]Meph[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=126934]Obsidian[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=152698]Phoebus[/url]
+ - [url=http://www.bay12forums.com/smf/index.php?topic=129219]Spacefox[/url]
+
+
+[size=14pt][b]Recent changelogs:[/b][/size]
+
+0.44.12-r05
+ - updated DFHack to 0.44.12-r2
+ - updated TwbT to 6.57
+
+0.44.12-r04
+ - updated Dwarf Therapist to v41.0.3
+ - updated TwbT to 6.55
+ - updated Legends Viewer to 1.19.10
+ - updated PyLNP to 0.13b
+
+0.44.12-r03
+ - updated Dwarf Therapist to v41.0.2
+ - updated PyLNP to 0.13a
+ - updated TwbT to 6.54
+ - fixed bad install of TwbT graphics (thanks to taleden for reporting it)
+
+0.44.12-r02
+ - fixed Dwarf Therapist (use 64bit build)
+
+0.44.12-r01
+ - updated Dwarf Fortress
+ - updated DFHack to 0.44.12-r1
+ - updated TwbT to v6.53
+ - updated Dwarf Therapist to v40.1.2
+ - updated Legends Viewer to 1.19.09
+ - updated graphics: Ironhand, Obsidian, Spacefox, Phoebus
+
+Older changelogs can be found in ./LNP/about/changelog.txt

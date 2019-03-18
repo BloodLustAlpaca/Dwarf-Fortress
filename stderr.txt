@@ -1,0 +1,2 @@
+Running PyLNP 0.13b (OS: win, Compiled: True)
+INFO: Read installed graphics (Spacefox) from log

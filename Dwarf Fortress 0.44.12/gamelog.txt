@@ -1,0 +1,60 @@
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 4233333
+ Seed: iyw2EU22g8MSIkOKMCsI
+ History Seed: yoIUCAKsEg6ukOC24OAC
+ Name Seed: oQQO22maC2EqYy8iSwG2
+ Creature Seed: Cg4GA6ugekws8O0Q6cuO
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+Not enough free nestbox zones found! You need 12 more.
+Shorast Zugobnish has become a Miner.
+Rith Kñbukvel, Butcher cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Tekkud Emenatås, Planter cancels Plant Seeds: Needs plump helmet spawn.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+Cerol Udils†rek, Woodcutter cancels Plant Seeds: Needs plump helmet spawn.
+Tekkud Emenatås, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Cerol Udils†rek, Woodcutter cancels Plant Seeds: Needs plump helmet spawn.
+Tekkud Emenatås, Planter cancels Plant Seeds: Needs plump helmet spawn.
+x2
+Tekkud Emenatås, Planter cancels Prepare Easy Meal: Job item lost or destroyed.
+Rith Kñbukvel has become a Carpenter.
+Cerol Udils†rek has become a Miner.
+Rith Kñbukvel, Carpenter cancels Prepare Easy Meal: Job item lost or destroyed.
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress DomasnamÖsh (Guildbrew), colonized by the group äzum Omet (The Hame of Flukes) of the civilization Atorkadìl (The Perfect Gem).
+Not enough free nestbox zones found! You need 12 more.
+Shorast Zugobnish, Miner cancels Plant Seeds: Needs plump helmet spawn.
+x2
+x3
+Mistàm Nolàthathel, expedition leader cancels Prepare Easy Meal: Job item lost or destroyed.
+Rith Kñbukvel, Carpenter cancels Brew drink from plant: Needs empty food storage item.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress DomasnamÖsh (Guildbrew), colonized by the group äzum Omet (The Hame of Flukes) of the civilization Atorkadìl (The Perfect Gem).
+Not enough free nestbox zones found! You need 12 more.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress DomasnamÖsh (Guildbrew), colonized by the group äzum Omet (The Hame of Flukes) of the civilization Atorkadìl (The Perfect Gem).
+Not enough free nestbox zones found! You need 12 more.
