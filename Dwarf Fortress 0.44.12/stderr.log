@@ -364,3 +364,29 @@ Invoking: repeat -time 7 -timeUnits days -command [ burial ] -name burial
 Invoking: burial
 Invoking: enable labormanager
 fix-unit-occupancy: elapsed time: 0.0310001 secs
+Invoking: repeat -name warn-starving -time 10 -timeUnits days -command [ warn-starving ]
+Invoking: warn-starving
+Invoking: twbt unit_transparency 1
+Invoking: repeat -name warn-starving -time 10 -timeUnits days -command [ warn-starving ]
+Invoking: warn-starving
+fix-unit-occupancy: elapsed time: 0.0170898 secs
+Invoking: disable labormanager
+Invoking: autonestbox stop
+Invoking: enable fix-unit-occupancy
+fix-unit-occupancy: elapsed time: 0.0166016 secs
+Invoking: fix/blood-del enable
+Invoking: repeat -time 1 -timeUnits months -command [ fix/dead-units ]
+Invoking: fix/dead-units
+Invoking: repeat -time 1 -timeUnits months -command [ fix/dry-buckets ]
+Invoking: fix/dry-buckets
+Invoking: repeat -time 1 -timeUnits months -command [ fix/stuckdoors ]
+Invoking: fix/stuckdoors
+Invoking: multilevel 5
+Invoking: multicmd autonestbox start; repeat -time 7 -timeUnits days -command [ burial ] -name burial
+Invoking: autonestbox start
+Invoking: repeat -time 7 -timeUnits days -command [ burial ] -name burial
+Invoking: burial
+Invoking: enable labormanager
+fix-unit-occupancy: elapsed time: 0.0317383 secs
+fix-unit-occupancy: elapsed time: 0.0161133 secs
+Invoking: die
