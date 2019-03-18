@@ -1,1 +1,17 @@
 die
+labormanager list
+labormanager forbid-hunting
+labormanager HUNT 1 1 2
+labormanager 1 1 2
+autolabor 1 1 2
+labormanager list
+labormanager allow-hunting
+labormanager list
+labormanager HUNT 1 1 1
+labormanager list
+load labormanager
+load LaborManager
+autolabor list
+LaborManager list
+autolabor list
+die
