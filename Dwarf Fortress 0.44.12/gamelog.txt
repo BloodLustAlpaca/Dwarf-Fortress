@@ -101,3 +101,61 @@ x2
 It is now summer.
 Cilob Gostermistˆm has become a Stonecrafter.
 Some migrants have arrived.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Summer has arrived on the calendar.
+The weather has cleared.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 12 more.
+Rith Kubukvel, Carpenter cancels Brew drink from plant: Needs empty food storage item.
+You have struck pyrolusite!
+Cilob Gostermistem has created a masterpiece slate mug!
+Stopping production: door
+Resuming production: door
+Stopping production: door
+Stopping production: wood barrel
+Tekkud Emenatis has become a Miner.
+Cilob Gostermistem has created a masterpiece gabbro mug!
+Stopping production: drink
+Resuming production: drink
+Stopping production: chair
+Stopping production: bed
+Shorast Zugobnish, Miner cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Resuming production: biscuits
+Stopping production: table
+Kogan Alathsterus, Dyer cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Resuming production: biscuits
+Kol Gebarnish, Farmer cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Resuming production: biscuits
+Cilob Gostermistem, Stonecrafter cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Resuming production: biscuits
+Resuming production: chair
+Resuming production: table
+Resuming production: bed
+Rith Kubukvel, Carpenter cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Resuming production: biscuits
+Rith Kubukvel, Carpenter cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Stopping production: bed
+Resuming production: biscuits
+Stopping production: chair
+Resuming production: wood barrel
+Stopping production: table
+Lorbam Akrulzolak, Peasant cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Resuming production: biscuits
+Cilob Gostermistem has created a masterpiece gabbro mug!
+Lorbam Akrulzolak, Peasant cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Resuming production: biscuits
+Cerol Udilsarek, Miner cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Resuming production: biscuits
+Stopping production: bin
+Cilob Gostermistem has created a masterpiece gabbro mug!
+Edzul Silcatten, manager cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Resuming production: biscuits
+Kogan Alathsterus, Dyer cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+Resuming production: biscuits
+Stopping production: stone goblet

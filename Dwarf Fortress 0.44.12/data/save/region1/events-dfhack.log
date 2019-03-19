@@ -29,3 +29,7 @@
 [2019-03-18T21:42:39-0600] DFHack 0.44.12-r2-0-g315852a2 on Windows; cwd md5: 33dbe564b3; save: region1; SC_MAP_LOADED; game type DWARF_MAIN (0)
 [2019-03-18T22:05:28-0600] DFHack 0.44.12-r2-0-g315852a2 on Windows; cwd md5: 33dbe564b3; save: region1; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
 [2019-03-18T22:05:28-0600] DFHack 0.44.12-r2-0-g315852a2 on Windows; cwd md5: 33dbe564b3; save: region1; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
+[2019-03-19T09:53:44-0600] DFHack 0.44.12-r2-0-g315852a2 on Windows; cwd md5: 33dbe564b3; save: region1; SC_WORLD_LOADED; game type DWARF_MAIN (0)
+[2019-03-19T09:53:45-0600] DFHack 0.44.12-r2-0-g315852a2 on Windows; cwd md5: 33dbe564b3; save: region1; SC_MAP_LOADED; game type DWARF_MAIN (0)
+[2019-03-19T10:38:33-0600] DFHack 0.44.12-r2-0-g315852a2 on Windows; cwd md5: 33dbe564b3; save: region1; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
+[2019-03-19T10:38:33-0600] DFHack 0.44.12-r2-0-g315852a2 on Windows; cwd md5: 33dbe564b3; save: region1; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
