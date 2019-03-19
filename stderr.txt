@@ -1,5 +1,2 @@
 Running PyLNP 0.13b (OS: win, Compiled: True)
 INFO: Read installed graphics (Spacefox) from log
-INFO: Read installed graphics (Spacefox) from log
-INFO: Read installed graphics (Spacefox) from log
-INFO: Safely updated graphics raws .\Dwarf Fortress 0.44.12\data\save\region1\raw to Spacefox
