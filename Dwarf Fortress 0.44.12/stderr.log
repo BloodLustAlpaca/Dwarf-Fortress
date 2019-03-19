@@ -344,15 +344,12 @@ UNKNOWN CLASS 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffd55fcaa80
 Invoking: repeat -name warn-starving -time 10 -timeUnits days -command [ warn-starving ]
 Invoking: warn-starving
 Invoking: twbt unit_transparency 1
-Client connection established.
-soundsense is not a recognized command.
-Shutting down client connection.
 Invoking: repeat -name warn-starving -time 10 -timeUnits days -command [ warn-starving ]
 Invoking: warn-starving
 Invoking: disable labormanager
 Invoking: autonestbox stop
 Invoking: enable fix-unit-occupancy
-fix-unit-occupancy: elapsed time: 0.00600052 secs
+fix-unit-occupancy: elapsed time: 0.00599957 secs
 Invoking: fix/blood-del enable
 Invoking: repeat -time 1 -timeUnits months -command [ fix/dead-units ]
 Invoking: fix/dead-units
@@ -367,49 +364,14 @@ Invoking: repeat -time 7 -timeUnits days -command [ burial ] -name burial
 Invoking: burial
 Invoking: enable labormanager
 fix-unit-occupancy: elapsed time: 0.00799561 secs
-fix-unit-occupancy: elapsed time: 0.0059967 secs
-fix-unit-occupancy: elapsed time: 0.00700378 secs
-fix-unit-occupancy: elapsed time: 0.0059967 secs
-fix-unit-occupancy: elapsed time: 0.0059967 secs
-fix-unit-occupancy: elapsed time: 0.00698853 secs
-fix-unit-occupancy: elapsed time: 0.0059967 secs
-fix-unit-occupancy: elapsed time: 0.00700378 secs
-Invoking: burial
-fix-unit-occupancy: elapsed time: 0.00598145 secs
-fix-unit-occupancy: elapsed time: 0.00701904 secs
 fix-unit-occupancy: elapsed time: 0.00601196 secs
-Invoking: warn-starving
-Invoking: gui/workflow
-fix-unit-occupancy: elapsed time: 0.00601196 secs
-fix-unit-occupancy: elapsed time: 0.00698853 secs
-fix-unit-occupancy: elapsed time: 0.00598145 secs
-Invoking: gui/workflow
-fix-unit-occupancy: elapsed time: 0.00598145 secs
-Invoking: burial
+fix-unit-occupancy: elapsed time: 0.00701904 secs
+fix-unit-occupancy: elapsed time: 0.00701904 secs
 fix-unit-occupancy: elapsed time: 0.00701904 secs
 fix-unit-occupancy: elapsed time: 0.00598145 secs
-fix-unit-occupancy: elapsed time: 0.00598145 secs
-fix-unit-occupancy: elapsed time: 0.00701904 secs
-fix-unit-occupancy: elapsed time: 0.00604248 secs
-fix-unit-occupancy: elapsed time: 0.00598145 secs
-Invoking: warn-starving
-fix-unit-occupancy: elapsed time: 0.0130005 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
+fix-unit-occupancy: elapsed time: 0.00708008 secs
 Invoking: burial
-fix-unit-occupancy: elapsed time: 0.00701904 secs
-fix-unit-occupancy: elapsed time: 0.00598145 secs
-fix-unit-occupancy: elapsed time: 0.00708008 secs
-Invoking: labormanager allow-fishing
-fix-unit-occupancy: elapsed time: 0.00708008 secs
-Invoking: labormanager list
-fix-unit-occupancy: elapsed time: 0.00610352 secs
-fix-unit-occupancy: elapsed time: 0.00805664 secs
-Invoking: gui/workflow
-fix-unit-occupancy: elapsed time: 0.00708008 secs
-Invoking: fix/dead-units
-Invoking: fix/dry-buckets
-Invoking: fix/stuckdoors
-Invoking: burial
-fix-unit-occupancy: elapsed time: 0.00585938 secs
 Forgetting job 5593 (ConstructMechanisms): holder building lost.
 Forgetting job 5183 (PrepareMeal): holder building lost.
 Forgetting job 4625 (ConstructCabinet): holder building lost.

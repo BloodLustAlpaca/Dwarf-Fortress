@@ -267,3 +267,22 @@ Resuming production: bed
 Stock level is low: rock mechanism
 Stopping production: wood box/bag
 Stopping production: bed
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Autumn has arrived on the calendar.
+It has started raining.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 13 more.
+Edzul Silcatten, manager cancels Construct Traction Bench: Needs mechanisms.
+Bomrek Tosidtumam, bookkeeper cancels Construct Traction Bench: Needs mechanisms.
+Cerol Udilsarek, militia commander cancels Construct Traction Bench: Needs mechanisms.
+Stock level is low: rock mechanism
+Resuming production: door
+Stopping production: table
+The weather has cleared.
+Kol Gebarnish has become a Planter.
+Stopping production: door
+Resuming production: door
+Stopping production: door
+Stopping production: rock mechanism
