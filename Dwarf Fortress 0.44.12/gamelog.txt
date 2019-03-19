@@ -177,3 +177,93 @@ Rith Kubukvel, Carpenter cancels Prepare Easy Meal: Needs unrotten cookable soli
 Autumn has come.
 The weather has cleared.
 Thief!  Protect the hoard from skulking filth!
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Autumn has arrived on the calendar.
+It has started raining.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 12 more.
+Resuming production: chair
+Resuming production: table
+Resuming production: bin
+Datan Likotzithis, chief medical dwarf cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+The weather has cleared.
+Thief!  Protect the hoard from skulking filth!
+Kogan Alathsterus has become a Miner.
+Stopping production: chair
+Resuming production: chair
+Stopping production: table
+** Loading Fortress **
+Autumn has arrived on the calendar.
+It has started raining.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 12 more.
+Stopping production: chair
+Stopping production: bin
+Cilob Gostermistem, Stonecrafter cancels Make rock short sword: Needs sharpenable hard rock.
+x2
+x3
+x4
+Cerol Udilsarek, militia commander cancels Make rock short sword: Needs sharpenable hard rock.
+You have struck milk opal!
+Stray Ewe (Tame) has given birth to a lamb.
+Stopping production: wood box/bag
+Stray Dog (Tame) has given birth to puppies.
+Stray Dog (Tame) has given birth to a puppy.
+Stray Dog (Tame) has given birth to puppies.
+The outpost liaison ãngiz Eturcatten from Atorkadol has arrived.
+A caravan from Atorkadol has arrived.
+Mistàm Nolethathel, expedition leader cancels Dig: Lost pick.
+Stray Dog (Tame) has given birth to puppies.
+Merchants have arrived and are unloading their goods.
+Stopping production: wood cabinet
+Bomrek Tosidtumam, bookkeeper cancels Plant Seeds: Needs plump helmet spawn.
+x2
+Cerol Udilsarek, militia commander cancels Plant Seeds: Needs plump helmet spawn.
+Bomrek Tosidtumam, bookkeeper cancels Plant Seeds: Needs plump helmet spawn.
+Shorast Zugobnish, Miner cancels Plant Seeds: Needs plump helmet spawn.
+Cerol Udilsarek, militia commander cancels Plant Seeds: Needs plump helmet spawn.
+Bomrek Tosidtumam, bookkeeper cancels Plant Seeds: Needs plump helmet spawn.
+Shorast Zugobnish, Miner cancels Plant Seeds: Needs plump helmet spawn.
+Bomrek Tosidtumam, bookkeeper cancels Plant Seeds: Needs plump helmet spawn.
+Shorast Zugobnish, Miner cancels Plant Seeds: Needs plump helmet spawn.
+Cerol Udilsarek, militia commander cancels Plant Seeds: Needs plump helmet spawn.
+Tekkud Emenatis, Miner cancels Plant Seeds: Needs plump helmet spawn.
+You have struck pyrolusite!
+Some migrants have arrived.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Autumn has arrived on the calendar.
+It has started raining.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 12 more.
+Not enough free nestbox zones found! You need 13 more.
+Resuming production: door
+Stray Dog (Tame) has given birth to puppies.
+Stopping production: door
+Resuming production: door
+Stopping production: door
+Stopping production: biscuits
+The merchants from Atorkadol will be leaving soon.
+Thåkut Tosidmistem has become a Miner.
+The merchants from Atorkadol have embarked on their journey.
+Endok Solonazin has become a Miner.
+Kol Gebarnish, Farmer cancels Give Water: No water source.
+x2
+Kol Gebarnish, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+A snow storm has come.
+Resuming production: door
+Resuming production: bed
+Resuming production: wood box/bag
+You have struck pyrolusite!
+Stopping production: bed
+Stopping production: door
+Resuming production: table
+Resuming production: bed
+Stock level is low: rock mechanism
+Stopping production: wood box/bag
+Stopping production: bed

@@ -1,33 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<configuration>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configuration>
 
-	<gamelog encoding="Cp850" path="..\..\..\Dwarf Fortress 0.44.12/gamelog.txt" />
+	<gamelog encoding="Cp850" path="..\..\..\Dwarf Fortress 0.44.12/gamelog.txt"/>
 	<supplementalLogs>
-		<item path="${gameBaseDir}/ss_fix.log" />
+		<item path="${gameBaseDir}/ss_fix.log"/>
 	</supplementalLogs>
 
-	<soundpacks allowOverride="true" defaultPath="./packs/"
-		noWarnAbsolutePath="false" />
+	<soundpacks allowOverride="true" defaultPath="./packs/" noWarnAbsolutePath="false"/>
 
-	<volume value="0.0" />
+	<volume value="0.0"/>
 
-	<gui value="true" />
+	<gui value="true"/>
 
-	<achievements value="true" />
+	<achievements value="true"/>
 
-	<playbackTheshhold value="4" />
+	<playbackTheshhold value="4"/>
 
 	<expectedMinimalSoundsCount value="450"/>
 
 	<autoUpdateURLs>
-		<item path="http://df.zweistein.cz/soundsense/soundpack" />
-		<item path="http://www.armedassault.info/_hosted/soundsense/au" />
+		<item path="http://df.zweistein.cz/soundsense/soundpack"/>
+		<item path="http://www.armedassault.info/_hosted/soundsense/au"/>
 	</autoUpdateURLs>
-	<autoUpdateReplaceFiles value="true" />
-	<autoUpdateDeleteFiles value="false" />
+	<autoUpdateReplaceFiles value="true"/>
+	<autoUpdateDeleteFiles value="false"/>
 
-	<disabledSounds />
+	<disabledSounds/>
 
-	<mutedChannels />
+	<mutedChannels/>
 
 </configuration>
