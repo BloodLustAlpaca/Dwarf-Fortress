@@ -85,3 +85,19 @@ The weather has cleared.
 Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
 Loaded the fortress Domasnam…sh (Guildbrew), colonized by the group Šzum Omet (The Hame of Flukes) of the civilization Atorkad“l (The Perfect Gem).
 Not enough free nestbox zones found! You need 12 more.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnam…sh (Guildbrew), colonized by the group Šzum Omet (The Hame of Flukes) of the civilization Atorkad“l (The Perfect Gem).
+Not enough free nestbox zones found! You need 12 more.
+You have struck rose quartz!
+You have struck green tourmaline!
+You have struck tetrahedrite!
+Tekkud EmenatŒs, Planter cancels Prepare Easy Meal: Needs unrotten cookable solid item.
+You have struck tetrahedrite!
+x2
+It is now summer.
+Cilob Gostermistˆm has become a Stonecrafter.
+Some migrants have arrived.
