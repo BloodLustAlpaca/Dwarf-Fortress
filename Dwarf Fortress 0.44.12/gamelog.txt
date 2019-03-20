@@ -464,3 +464,15 @@ Nothing has arrived on the calendar.
 The weather has cleared.
 ** Starting New Outpost **
 Not enough free nestbox zones found! You need 12 more.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+Not enough free nestbox zones found! You need 12 more.
+Sibrek Tostastesh has become a Miner.
+You have struck mica!
+x2
+Resuming production: wood cabinet
+Resuming production: wood table
