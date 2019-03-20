@@ -304,3 +304,54 @@ Stopping production: bin
 Resuming production: rock mechanism
 Stopping production: wood cabinet
 Edzul Silcatten, manager cancels Store Item in Stockpile: Drop-off inaccessible.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Autumn has arrived on the calendar.
+A snow storm has come.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 13 more.
+Stopping production: wood box/bag
+The weather has cleared.
+Resuming production: table
+Stopping production: rock mechanism
+Resuming production: rock mechanism
+Stopping production: blocks
+Resuming production: bed
+Stopping production: table
+Resuming production: door
+You have struck green tourmaline!
+Stopping production: bed
+RŒsen Ruravuz, Macedwarf is visiting.
+Zas Nakisonul, Macedwarf is visiting.
+Cil Lofishasttol, Human Swordsman is visiting.
+Kosoth Asteshsebir, Speardwarf is visiting.
+Urist Inodkadol, Hammerdwarf is visiting.
+DŒshmab Soloniger, baroness consort of Boatsears is visiting.
+Doren Inodushil, Macedwarf is visiting.
+Stopping production: door
+Stock level is low: rock mechanism
+Cerol Udilsarek, militia commander cancels Construct Traction Bench: Needs chain.
+Resuming production: door
+Resuming production: bed
+Resuming production: wood box/bag
+Resuming production: wood cabinet
+Stopping production: stew
+Stopping production: door
+Winter is upon you.
+Resuming production: drink
+Ustuth Avuzemal, Weaver cancels Cut green tourmaline: Needs rough green tourmalines.
+Ustuth Avuzemal, Weaver cancels Cut milk opal: Needs rough milk opals.
+Edzul Silcatten, manager cancels Cut rose quartz: Needs rough rose quartzes.
+Stopping production: rock mechanism
+Stopping production: bed
+Stray Cat (Tame) has given birth to a kitten.
+Stopping production: wood cabinet
+Resuming production: door
+Resuming production: bed
+Resuming production: wood cabinet
+Stopping production: bed
+Stopping production: door
+Resuming production: door
+Resuming production: bed
+A snow storm has come.
