@@ -286,3 +286,21 @@ Stopping production: door
 Resuming production: door
 Stopping production: door
 Stopping production: rock mechanism
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Autumn has arrived on the calendar.
+A snow storm has come.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 13 more.
+Thåkut Tosidmistem, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+Endok Solonazin, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+Resuming production: door
+Stopping production: door
+A snow storm has come.
+Stopping production: wood barrel
+Stopping production: bed
+Stopping production: bin
+Resuming production: rock mechanism
+Stopping production: wood cabinet
+Edzul Silcatten, manager cancels Store Item in Stockpile: Drop-off inaccessible.
