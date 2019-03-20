@@ -338,9 +338,9 @@ Invoking: modtools/extra-gamelog enable
 Invoking: enable gui/extended-status
 Invoking: view-item-info enable
 Invoking: gui/load-screen enable
+UNKNOWN CLASS 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffc1130aa80
 Invoking: sc-script add SC_WORLD_LOADED onLoad.init
 Invoking: multilevel 0
-UNKNOWN CLASS 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffc1130aa80
 Invoking: repeat -name warn-starving -time 10 -timeUnits days -command [ warn-starving ]
 Invoking: warn-starving
 Invoking: twbt unit_transparency 1
@@ -349,7 +349,7 @@ Invoking: warn-starving
 Invoking: disable labormanager
 Invoking: autonestbox stop
 Invoking: enable fix-unit-occupancy
-fix-unit-occupancy: elapsed time: 0.0130005 secs
+fix-unit-occupancy: elapsed time: 0.0150013 secs
 Invoking: fix/blood-del enable
 Invoking: repeat -time 1 -timeUnits months -command [ fix/dead-units ]
 Invoking: fix/dead-units
@@ -363,44 +363,40 @@ Invoking: autonestbox start
 Invoking: repeat -time 7 -timeUnits days -command [ burial ] -name burial
 Invoking: burial
 Invoking: enable labormanager
-fix-unit-occupancy: elapsed time: 0.0149841 secs
-Invoking: gui/workflow
-fix-unit-occupancy: elapsed time: 0.0140381 secs
+fix-unit-occupancy: elapsed time: 0.0110016 secs
+fix-unit-occupancy: elapsed time: 0.0129929 secs
+fix-unit-occupancy: elapsed time: 0.0179977 secs
+fix-unit-occupancy: elapsed time: 0.0119934 secs
+fix-unit-occupancy: elapsed time: 0.0120087 secs
+fix-unit-occupancy: elapsed time: 0.0110016 secs
+fix-unit-occupancy: elapsed time: 0.00997925 secs
 fix-unit-occupancy: elapsed time: 0.0100098 secs
-fix-unit-occupancy: elapsed time: 0.0100098 secs
-fix-unit-occupancy: elapsed time: 0.0100098 secs
-fix-unit-occupancy: elapsed time: 0.0111084 secs
-fix-unit-occupancy: elapsed time: 0.0119629 secs
-fix-unit-occupancy: elapsed time: 0.013916 secs
 Invoking: burial
-fix-unit-occupancy: elapsed time: 0.0200195 secs
-fix-unit-occupancy: elapsed time: 0.0159912 secs
-Invoking: gui/workshop-job
-Invoking: gui/workflow
-Invoking: gui/workflow
-Invoking: gui/room-list
-Invoking: gui/workflow
-fix-unit-occupancy: elapsed time: 0.0200195 secs
-Invoking: warn-starving
-fix-unit-occupancy: elapsed time: 0.0200195 secs
-Invoking: gui/workflow
-fix-unit-occupancy: elapsed time: 0.0170898 secs
-fix-unit-occupancy: elapsed time: 0.0161133 secs
-fix-unit-occupancy: elapsed time: 0.0131836 secs
-Invoking: burial
-fix-unit-occupancy: elapsed time: 0.0148926 secs
-Invoking: gui/workflow
-fix-unit-occupancy: elapsed time: 0.0119629 secs
-fix-unit-occupancy: elapsed time: 0.0161133 secs
-fix-unit-occupancy: elapsed time: 0.0129395 secs
+fix-unit-occupancy: elapsed time: 0.0130005 secs
+fix-unit-occupancy: elapsed time: 0.0100098 secs
 fix-unit-occupancy: elapsed time: 0.0109863 secs
-fix-unit-occupancy: elapsed time: 0.0090332 secs
 Invoking: warn-starving
-fix-unit-occupancy: elapsed time: 0.0129395 secs
+Invoking: gui/workflow
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.0109863 secs
+fix-unit-occupancy: elapsed time: 0.0100098 secs
+fix-unit-occupancy: elapsed time: 0.0090332 secs
+fix-unit-occupancy: elapsed time: 0.0110474 secs
 Invoking: burial
-fix-unit-occupancy: elapsed time: 0.0180664 secs
+fix-unit-occupancy: elapsed time: 0.0100098 secs
+fix-unit-occupancy: elapsed time: 0.00994873 secs
+fix-unit-occupancy: elapsed time: 0.0170288 secs
+fix-unit-occupancy: elapsed time: 0.0109863 secs
+fix-unit-occupancy: elapsed time: 0.0140381 secs
+fix-unit-occupancy: elapsed time: 0.0159912 secs
+Invoking: warn-starving
+fix-unit-occupancy: elapsed time: 0.0109863 secs
+Invoking: burial
+fix-unit-occupancy: elapsed time: 0.0130615 secs
 fix-unit-occupancy: elapsed time: 0.0129395 secs
-fix-unit-occupancy: elapsed time: 0.0119629 secs
+fix-unit-occupancy: elapsed time: 0.012085 secs
+Forgetting job 7412 (MakeLye): holder building lost.
+Forgetting job 7411 (MakeAsh): holder building lost.
 Forgetting job 6643 (CutGems): holder building lost.
 Forgetting job 6642 (CutGems): holder building lost.
 Forgetting job 6640 (CutGems): holder building lost.

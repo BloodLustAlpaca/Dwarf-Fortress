@@ -355,3 +355,48 @@ Stopping production: door
 Resuming production: door
 Resuming production: bed
 A snow storm has come.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Winter has arrived on the calendar.
+A snow storm has come.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 13 more.
+Stopping production: door
+Resuming production: door
+Stopping production: door
+You have struck milk opal!
+Stopping production: bed
+The weather has cleared.
+Resuming production: door
+Resuming production: bed
+Stopping production: door
+Resuming production: door
+Stopping production: bed
+Stopping production: wood cabinet
+Stopping production: door
+Resuming production: wood barrel
+Stock level is low: lye liquid
+Kogan Alathsterus, Miner cancels Make Lye: Needs ash.
+Resuming production: lye liquid
+Edzul Silcatten, manager cancels Cut milk opal: Needs rough milk opals.
+Kogan Alathsterus, Miner cancels Make Lye: Needs ash.
+Rith Kubukvel, Carpenter cancels Cut milk opal: Needs rough milk opals.
+Shorast Zugobnish, Miner cancels Cut milk opal: Needs rough milk opals.
+Resuming production: lye liquid
+Stopping production: wood box/bag
+Resuming production: door
+Stopping production: door
+Resuming production: wood box/bag
+Resuming production: bed
+Bomrek Tosidtumam, bookkeeper cancels Make Lye: Needs empty bucket.
+Resuming production: lye liquid
+Thåkut Tosidmistem, Tavern Keeper cancels Make Lye: Needs empty bucket.
+Resuming production: lye liquid
+Resuming production: bin
+Kogan Alathsterus, Miner cancels Make Lye: Needs empty bucket.
+Stopping production: bed
+Resuming production: lye liquid
+Stopping production: ash bars
+Tekkud Emenatis, Miner cancels Make Lye: Needs empty bucket.
+Resuming production: lye liquid
