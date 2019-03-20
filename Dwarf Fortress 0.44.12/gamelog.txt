@@ -400,3 +400,67 @@ Resuming production: lye liquid
 Stopping production: ash bars
 Tekkud Emenatis, Miner cancels Make Lye: Needs empty bucket.
 Resuming production: lye liquid
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Winter has arrived on the calendar.
+The weather has cleared.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 13 more.
+Bomrek Tosidtumam, bookkeeper cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Resuming production: lye liquid
+Ustuth Avuzemal, Weaver cancels Make Lye: Needs empty bucket.
+The Stray Puppy (Tame) has been slaughtered.
+A snow storm has come.
+Resuming production: lye liquid
+The Stray Puppy (Tame) has been slaughtered.
+** Loading Fortress **
+Winter has arrived on the calendar.
+A snow storm has come.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 13 more.
+** Loading Fortress **
+Winter has arrived on the calendar.
+A snow storm has come.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew), colonized by the group Ezum Omet (The Hame of Flukes) of the civilization Atorkadol (The Perfect Gem).
+Not enough free nestbox zones found! You need 13 more.
+Winter has arrived on the calendar.
+A snow storm has come.
+Loaded region1, Todiathira (The Past Plane) at coordinates (100,21)
+Loaded the fortress Domasnamash (Guildbrew) of the civilization Atorkadol (The Perfect Gem).
+*** STARTING NEW GAME ***
+Generating world using parameter set SMALL REGION
+ Seed: Rt6qhUK4A6vvLjrxrcPy
+ History Seed: 1aqJgMbEM3jcRE3iTbr8
+ Name Seed: RNAlpURDr4jIw9NNBzTY
+ Creature Seed: Y9uYo0A0uI4XMdsY0JRS
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 3133323
+ Seed: UGCuSWmSgOWY2ia622Qc
+ History Seed: oSSOCQoqyAG4mWG26oqe
+ Name Seed: 2GOiEsmIsWoa4aYges2U
+ Creature Seed: 0aiOcAueAcQ2q60aGiIa
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Generating world using parameter set CREATE WORLD NOW = 4133323
+ Seed: eQ4uK6msUiIYwSQUkWyY
+ History Seed: Gc8eGWWy0akQ4Ucguw2i
+ Name Seed: aYSk6KcsC2Geei8WIKeU
+ Creature Seed: QueAoeOGis2YgSEe8oUM
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+Not enough free nestbox zones found! You need 12 more.
