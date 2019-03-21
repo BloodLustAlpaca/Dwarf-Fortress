@@ -483,3 +483,74 @@ The weather has cleared.
 Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
 Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
 Not enough free nestbox zones found! You need 12 more.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+Not enough free nestbox zones found! You need 12 more.
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+Not enough free nestbox zones found! You need 12 more.
+Resuming production: wood cabinet
+Resuming production: wood table
+It has started raining.
+The weather has cleared.
+You have struck sphalerite!
+Tosid Ducimokil has become a Carpenter.
+Sibrek Tostastesh, Miner cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+You have struck mica!
+Resuming production: rock goblet
+Stopping production: wood cabinet
+You have struck sphalerite!
+Stopping production: wood barrel
+Stopping production: rock goblet
+Doren Keskalnikot has become a Miner.
+Summer has arrived on the calendar.
+Stopping production: wood cabinet
+Not enough free nestbox zones found! You need 5 more.
+Stopping production: wood bin
+It has started raining.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Summer has arrived on the calendar.
+It has started raining.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+The weather has cleared.
+Stopping production: wood bed
+It has started raining.
+The white-browed gibbon's left front foot takes the full force of the impact and the part splits in gore!
+An artery has been opened by the attack!
+The white-browed gibbon's right front leg takes the full force of the impact, bruising the muscle!
+Stopping production: wood door
+Stopping production: wood table
+Stopping production: wood box/bag
+The weather has cleared.
+Sibrek Tostastesh, Miner cancels Plant Seeds: Needs plump helmet spawn.
+Stopping production: wood bin
+Stopping production: drink
+Resuming production: drink
+Stopping production: wood barrel
+Stopping production: biscuits
+Zon Ishlumdumat, Hunter cancels Construct Building: Creature occupying site.
+The dwarves suspended the construction of Mechanic's Workshop.
+Sibrek Tostastesh, Miner cancels Plant Seeds: Needs plump helmet spawn.
+It has started raining.
+Resuming production: wood barrel
+Some migrants have arrived.
+Resuming production: wood bed
+Cannot produce: wood door
+Resuming production: wood box/bag
+Stopping production: drink
+Asmel Ed‰mkodor, Mason cancels Cut slate: Needs slate.
+Stopping production: wood cabinet
+The weather has cleared.
+Resuming production: wood cabinet
+Stopping production: wood cabinet
+Doren Keskalnikot, Miner cancels Plant Seeds: Needs plump helmet spawn.
+Stopping production: wood box/bag

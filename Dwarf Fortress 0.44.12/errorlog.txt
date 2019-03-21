@@ -1,1 +1,2 @@
 DOUBLE TAGGED ITEM: Store Item in Stockpile, apricot wood logs
+path fail: dog,94,75,130 -> 95,74,129: Id #1062:Path Goal Seek Station:Station None at 94,75,130

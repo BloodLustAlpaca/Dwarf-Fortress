@@ -203,8 +203,6 @@ loaded plugin zone; DFHack build 0.44.12-r2-0-g315852a2
 Starting IO thread.
 Starting DF input capture thread.
 Starting the TCP listener.
-Listening on port 5000
-DFHack is running.
 Invoking: keybinding add Ctrl-F1 hotkeys
 Invoking: keybinding add Alt-F1 hotkeys
 Invoking: keybinding add Ctrl-W twaterlvl
@@ -268,6 +266,8 @@ Invoking: keybinding add Shift-B@pet/List/Unit "gui/autobutcher"
 Invoking: keybinding add P@dwarfmode/QueryBuilding/Some/Weaponrack gui/assign-rack
 Invoking: keybinding add Alt-Shift-P@dwarfmode/LookAround gui/pathable
 Invoking: tweak stable-cursor
+Listening on port 5000
+DFHack is running.
 Enabled tweak stable-cursor (stable_cursor_hook::feed)
 Invoking: tweak advmode-contained
 Enabled tweak advmode-contained (advmode_contained_hook::feed)
@@ -338,9 +338,9 @@ Invoking: modtools/extra-gamelog enable
 Invoking: enable gui/extended-status
 Invoking: view-item-info enable
 Invoking: gui/load-screen enable
-UNKNOWN CLASS 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffc21fdaa80
 Invoking: sc-script add SC_WORLD_LOADED onLoad.init
 Invoking: multilevel 0
+UNKNOWN CLASS 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffd7ad3aa80
 Invoking: repeat -name warn-starving -time 10 -timeUnits days -command [ warn-starving ]
 Invoking: warn-starving
 Invoking: twbt unit_transparency 1
@@ -349,7 +349,7 @@ Invoking: warn-starving
 Invoking: disable labormanager
 Invoking: autonestbox stop
 Invoking: enable fix-unit-occupancy
-fix-unit-occupancy: elapsed time: 0.0179996 secs
+fix-unit-occupancy: elapsed time: 0.00699997 secs
 Invoking: fix/blood-del enable
 Invoking: repeat -time 1 -timeUnits months -command [ fix/dead-units ]
 Invoking: fix/dead-units
@@ -363,7 +363,29 @@ Invoking: autonestbox start
 Invoking: repeat -time 7 -timeUnits days -command [ burial ] -name burial
 Invoking: burial
 Invoking: enable labormanager
-UNKNOWN CLASS 'viewscreen_unitlaborsst': vtable = 0x7ffc3003ffc0
+fix-unit-occupancy: elapsed time: 0.00900269 secs
+fix-unit-occupancy: elapsed time: 0.00900269 secs
+fix-unit-occupancy: elapsed time: 0.00700378 secs
+fix-unit-occupancy: elapsed time: 0.0100021 secs
+fix-unit-occupancy: elapsed time: 0.00800323 secs
+fix-unit-occupancy: elapsed time: 0.00801086 secs
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+fix-unit-occupancy: elapsed time: 0.00700378 secs
+Invoking: burial
+fix-unit-occupancy: elapsed time: 0.00997925 secs
+fix-unit-occupancy: elapsed time: 0.00698853 secs
+fix-unit-occupancy: elapsed time: 0.00698853 secs
+Invoking: warn-starving
+fix-unit-occupancy: elapsed time: 0.00900269 secs
+fix-unit-occupancy: elapsed time: 0.00698853 secs
+fix-unit-occupancy: elapsed time: 0.00698853 secs
+fix-unit-occupancy: elapsed time: 0.00701904 secs
+Invoking: burial
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+fix-unit-occupancy: elapsed time: 0.00701904 secs
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+fix-unit-occupancy: elapsed time: 0.00701904 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
 Forgetting job 526 (MakeGoblet): holder building lost.
 Forgetting job 521 (ConstructTable): holder building lost.
 Forgetting job 520 (ConstructCabinet): holder building lost.
@@ -371,5 +393,77 @@ Forgetting job 519 (ConstructBin): holder building lost.
 Forgetting job 518 (ConstructDoor): holder building lost.
 Forgetting job 517 (MakeBarrel): holder building lost.
 Forgetting job 516 (ConstructBed): holder building lost.
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+Invoking: warn-starving
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+Invoking: burial
+fix-unit-occupancy: elapsed time: 0.00994873 secs
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+Invoking: gui/workflow
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+fix-unit-occupancy: elapsed time: 0.00897217 secs
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+Invoking: fix/dead-units
+Invoking: fix/dry-buckets
+Invoking: fix/stuckdoors
+Invoking: burial
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+Invoking: warn-starving
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
+fix-unit-occupancy: elapsed time: 0.00793457 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
+fix-unit-occupancy: elapsed time: 0.00805664 secs
+Invoking: burial
+fix-unit-occupancy: elapsed time: 0.00695801 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
+fix-unit-occupancy: elapsed time: 0.00805664 secs
+fix-unit-occupancy: elapsed time: 0.00793457 secs
+Invoking: warn-starving
+Invoking: gui/workflow
+Invoking: gui/room-list
+Invoking: gui/workflow
+Invoking: gui/workflow
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00708008 secs
+fix-unit-occupancy: elapsed time: 0.00805664 secs
+Invoking: burial
+Invoking: gui/workflow
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00708008 secs
+fix-unit-occupancy: elapsed time: 0.0090332 secs
+fix-unit-occupancy: elapsed time: 0.0090332 secs
+fix-unit-occupancy: elapsed time: 0.0090332 secs
+fix-unit-occupancy: elapsed time: 0.00805664 secs
+fix-unit-occupancy: elapsed time: 0.00805664 secs
+fix-unit-occupancy: elapsed time: 0.00805664 secs
+Invoking: burial
+fix-unit-occupancy: elapsed time: 0.00805664 secs
+Invoking: warn-starving
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.0078125 secs
+fix-unit-occupancy: elapsed time: 0.00585938 secs
+Forgetting job 3307 (ConstructBin): holder building lost.
+Forgetting job 3060 (ConstructThrone): holder building lost.
+Forgetting job 3059 (ConstructThrone): holder building lost.
+Forgetting job 2897 (ConstructDoor): holder building lost.
+Forgetting job 2891 (ConstructCabinet): holder building lost.
+Forgetting job 2890 (ConstructChest): holder building lost.
+Forgetting job 2889 (ConstructBed): holder building lost.
+Forgetting job 2503 (MakeBarrel): holder building lost.
+Forgetting job 2486 (PrepareMeal): holder building lost.
+Forgetting job 2485 (CustomReaction): holder building lost.
+Forgetting job 2406 (ConstructBin): holder building lost.
+Forgetting job 1615 (ConstructCabinet): holder building lost.
+Forgetting job 1614 (ConstructChest): holder building lost.
+Forgetting job 1611 (ConstructBed): holder building lost.
 Console is shutting down properly.
 Plugin twbt has failed to shutdown!
