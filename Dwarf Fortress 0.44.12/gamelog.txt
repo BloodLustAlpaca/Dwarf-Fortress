@@ -554,3 +554,278 @@ Resuming production: wood cabinet
 Stopping production: wood cabinet
 Doren Keskalnikot, Miner cancels Plant Seeds: Needs plump helmet spawn.
 Stopping production: wood box/bag
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Summer has arrived on the calendar.
+It has started raining.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress Dägkol (Evenwheels), colonized by the group Nebãteb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+Resuming production: wood cabinet
+Stopping production: wood barrel
+Stopping production: wood cabinet
+Resuming production: wood cabinet
+Resuming production: wood box/bag
+Autumn has arrived on the calendar.
+Moldath KÉkdalvucar has become a Recruit.
+Zon Ishlumdumat has become a militia commander.
+Moldath KÉkdalvucar has become a Miner.
+Zon Ishlumdumat has become a militia commander.
+Moldath KÉkdalvucar has become a Recruit.
+Zon Ishlumdumat has become a militia commander.
+Thief!  Protect the hoard from skulking filth!
+ãngiz Luzatrigïth, bookkeeper cancels Store Item in Stockpile: Interrupted by a kobold thief.
+Sibrek Tostastesh, Miner cancels Store Item in Stockpile: Interrupted by a kobold thief.
+Stopping production: wood cabinet
+The stray dog attacks the kobold thief but She jumps away!
+The stray dog charges at the kobold thief!
+The stray dog collides with the kobold thief!
+The kobold thief is knocked over!
+The kobold thief stands up.
+The stray dog misses the kobold thief!
+The stray dog bites the kobold thief in the neck, tearing the muscle!
+The stray dog collapses and falls to the ground from over-exertion.
+The stray dog bites the kobold thief in the right lower leg, tearing the muscle!
+The kobold thief falls over.
+The stray dog attacks the kobold thief but She rolls away!
+The stray dog stands up.
+The stray dog bites the kobold thief in the lower body, bruising the skin through the ({small cave spider silk tunic})!
+The stray dog bites the kobold thief in the right upper arm, tearing the muscle!
+The stray dog bites the kobold thief in the right lower arm, tearing the muscle!
+The stray dog bites the kobold thief in the head, tearing the muscle!
+The stray dog bites the kobold thief in the left upper leg, tearing the muscle through the x({small cave spider silk tunic})x!
+The stray dog bites the kobold thief in the right upper leg, tearing the muscle through the X({small cave spider silk tunic})X!
+The stray dog bites the kobold thief in the lower body, tearing the muscle and bruising the right kidney through the XX({small cave spider silk tunic})XX!
+The stray dog bites the kobold thief in the right foot, tearing the muscle!
+The stray dog bites the kobold thief in the lower body, bruising the muscle and bruising the guts through the XX({small cave spider silk tunic})XX!
+The XX({small cave spider silk tunic})XX is ripped to shreds!
+The stray dog latches on firmly!
+The kobold thief stabs the stray dog in the right front paw with her ({large silver dagger}), tearing the fat!
+The stray dog shakes the kobold thief around by the lower body, tearing apart the lower body's skin and tearing apart the lower spine's nervous tissue!
+A tendon in the lower spine has been torn!
+The stray dog bites the kobold thief in the right hand, tearing the muscle!
+The stray dog bites the kobold thief in the left lower leg, tearing the muscle!
+The stray dog bites the kobold thief in the left hand, tearing the muscle!
+The kobold thief loses hold of the ({large silver dagger}).
+The stray dog bites the kobold thief in the left upper arm, tearing the muscle!
+The stray dog bites the kobold thief in the right foot, tearing the muscle!
+The stray dog attacks the kobold thief but She rolls away!
+The stray dog bites the kobold thief in the lower body, tearing the muscle and bruising the stomach through the x({small cave spider silk loincloth})x!
+The stray dog bites the kobold thief in the left lower arm, tearing the muscle!
+The stray dog collapses and falls to the ground from over-exertion.
+The stray dog stands up.
+The stray dog bites the kobold thief in the right upper leg, tearing the muscle!
+The stray dog collapses and falls to the ground from over-exertion.
+The stray dog attacks the kobold thief but She rolls away!
+The stray dog bites the kobold thief in the left lower leg, tearing the muscle!
+The stray dog bites the kobold thief in the left foot, tearing the skin!
+The stray dog attacks the kobold thief but She scrambles away!
+Mñthkat Aranavuz has become a Recruit.
+Rakust Ubbuliseth has become a Recruit.
+Bomrek Nishråthol has become a Axedwarf.
+The stray dog bites the kobold thief in the head, tearing the muscle!
+The stray dog scratches the kobold thief in the right lower leg, tearing the muscle!
+The stray dog bites the kobold thief in the upper front teeth and the severed part sails off in an arc!
+The stray dog bites the kobold thief in the right hand, tearing apart the skin!
+The stray dog bites the kobold thief in the right foot, tearing apart the muscle!
+Many nerves have been severed!
+The stray dog bites the kobold thief in the left lower leg, tearing apart the skin!
+The stray dog attacks the kobold thief but She scrambles away!
+The stray dog bites the kobold thief in the lower body, tearing the muscle and bruising the guts!
+The kobold thief looks sick!
+The stray dog bites the kobold thief in the right hand, tearing the muscle!
+An artery has been opened by the attack and a sensory nerve has been severed!
+The kobold thief passes out from exhaustion.
+The stray dog bites the kobold thief in the head, tearing the muscle!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog grabs the kobold thief by the lower body with her right rear leg!
+The stray dog bites the kobold thief in the head, tearing the muscle!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog releases the grip of The stray dog's right rear leg on the kobold thief's lower body.
+The stray dog bites the kobold thief in the head, tearing the muscle!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog bites the kobold thief in the head, tearing the muscle!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog bites the kobold thief in the head, tearing the muscle!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog bites the kobold thief in the head, tearing the muscle!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog grabs the kobold thief by the right foot with her left front leg!
+The stray dog bites the kobold thief in the head, tearing the muscle!
+An artery has been opened by the attack!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head and the upper spine collapses!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog bites the kobold thief in the head, tearing apart the muscle!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog bites the kobold thief in the head, tearing the muscle!
+An artery has been opened by the attack!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog bites the kobold thief in the head, tearing apart the muscle!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog bites the kobold thief in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog locks the kobold thief's right ankle with The stray dog's left front leg!
+The stray dog bends the kobold thief's right foot with The stray dog's left front leg and the right ankle collapses!
+A ligament in the right ankle has been torn and a tendon has been torn!
+The stray dog releases the joint lock of The stray dog's left front leg on the kobold thief's right foot.
+The stray dog bites the kobold thief in the head, tearing apart the muscle!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog bites the kobold thief in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog releases the grip of The stray dog's left front leg on the kobold thief's right foot.
+The stray dog bites the kobold thief in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog bites the kobold thief in the head, tearing the muscle!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog bites the kobold thief in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+The stray dog latches on firmly!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle!
+A tendon in the skull has been torn!
+The stray dog shakes the kobold thief around by the head, tearing apart the head's skin and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The stray dog bites the kobold thief in the head, tearing apart the muscle!
+The stray dog latches on firmly!
+Mñthkat Aranavuz has become a Tanner.
+Rakust Ubbuliseth has become a Farmer.
+Bomrek Nishråthol has become a Planter.
+An animal has grown to become a Stray Mule.
+Stopping production: wood box/bag
+Resuming production: drink
+Tobul Nilìsust, Mechanic cancels Plant Seeds: Needs plump helmet spawn.
+Rakust Ubbuliseth, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+Udil Lolorgulnas, Soap Maker cancels Plant Seeds: Needs plump helmet spawn.
+Tobul Nilìsust, Mechanic cancels Plant Seeds: Needs plump helmet spawn.
+Rakust Ubbuliseth, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+Udil Lolorgulnas, Soap Maker cancels Plant Seeds: Needs plump helmet spawn.
+Sibrek Tostastesh, Miner cancels Plant Seeds: Needs plump helmet spawn.
+Stopping production: wood chair
+Udil Lolorgulnas, Soap Maker cancels Plant Seeds: Needs plump helmet spawn.
+x2
+Asmel Balurdim has grown to become a Doe Rabbit.
+Stopping production: wood bin
+Stray Dog (Tame) has given birth to puppies.
+The dwarves were unable to complete the Mechanic's Workshop.
+Stray Ewe (Tame) has given birth to a lamb.
+Thåkutubbul, Stray Dog (Tame) has given birth to puppies.
+Stray Dog (Tame) has given birth to puppies.
+Stopping production: wood bed
+The outpost liaison Rigïth Degâlikal from Sedilid has arrived.
+A caravan from Sedilid has arrived.
+Their wagons have bypassed your inaccessible site.
+The merchants need a trade depot to unload their goods.

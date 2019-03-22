@@ -1,4 +1,8 @@
 labormanager list
+labormanager allow-hunting
+labormanager list
+labormanager allow-hunting
+labormanager list
 labormanager allow-fishing
 die
 labormanager list
