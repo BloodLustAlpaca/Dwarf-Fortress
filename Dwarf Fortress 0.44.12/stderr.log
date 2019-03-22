@@ -340,7 +340,7 @@ Invoking: view-item-info enable
 Invoking: gui/load-screen enable
 Invoking: sc-script add SC_WORLD_LOADED onLoad.init
 Invoking: multilevel 0
-UNKNOWN CLASS 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffd7681aa80
+UNKNOWN CLASS 'dfhack_lua_viewscreen@DFHack': vtable = 0x7ffd7918aa80
 Client connection established.
 Invoking: repeat -name warn-starving -time 10 -timeUnits days -command [ warn-starving ]
 Invoking: warn-starving
@@ -366,48 +366,128 @@ Invoking: burial
 Invoking: enable labormanager
 soundsense is not a recognized command.
 Shutting down client connection.
-fix-unit-occupancy: elapsed time: 0.0119629 secs
-fix-unit-occupancy: elapsed time: 0.00805664 secs
-fix-unit-occupancy: elapsed time: 0.00695801 secs
-fix-unit-occupancy: elapsed time: 0.00695801 secs
-fix-unit-occupancy: elapsed time: 0.00891113 secs
-fix-unit-occupancy: elapsed time: 0.00793457 secs
+Invoking: labormanager list
 Invoking: labormanager allow-hunting
 Invoking: labormanager list
-fix-unit-occupancy: elapsed time: 0.0090332 secs
-fix-unit-occupancy: elapsed time: 0.00805664 secs
-Invoking: burial
-Invoking: labormanager allow-hunting
+Invoking: labormanager priority HUNT 200
 Invoking: labormanager list
-fix-unit-occupancy: elapsed time: 0.00805664 secs
-fix-unit-occupancy: elapsed time: 0.0090332 secs
-fix-unit-occupancy: elapsed time: 0.00683594 secs
-Invoking: warn-starving
-fix-unit-occupancy: elapsed time: 0.00805664 secs
-fix-unit-occupancy: elapsed time: 0.0090332 secs
-fix-unit-occupancy: elapsed time: 0.00805664 secs
-fix-unit-occupancy: elapsed time: 0.00805664 secs
+fix-unit-occupancy: elapsed time: 0.00900269 secs
+fix-unit-occupancy: elapsed time: 0.00700378 secs
+fix-unit-occupancy: elapsed time: 0.00799561 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
+fix-unit-occupancy: elapsed time: 0.00695801 secs
 Invoking: burial
 fix-unit-occupancy: elapsed time: 0.00708008 secs
 fix-unit-occupancy: elapsed time: 0.00805664 secs
-fix-unit-occupancy: elapsed time: 0.00708008 secs
 fix-unit-occupancy: elapsed time: 0.00805664 secs
-fix-unit-occupancy: elapsed time: 0.00708008 secs
-fix-unit-occupancy: elapsed time: 0.00708008 secs
 Invoking: warn-starving
-fix-unit-occupancy: elapsed time: 0.0078125 secs
-Invoking: burial
+Invoking: gui/workflow
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00708008 secs
+fix-unit-occupancy: elapsed time: 0.00708008 secs
+Invoking: labormanager list
+fix-unit-occupancy: elapsed time: 0.00708008 secs
 fix-unit-occupancy: elapsed time: 0.00683594 secs
-fix-unit-occupancy: elapsed time: 0.0090332 secs
+Invoking: burial
+Invoking: labormanager priority HUNT 1000
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00708008 secs
+fix-unit-occupancy: elapsed time: 0.00708008 secs
+fix-unit-occupancy: elapsed time: 0.00610352 secs
+fix-unit-occupancy: elapsed time: 0.00708008 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+Invoking: warn-starving
+fix-unit-occupancy: elapsed time: 0.00708008 secs
+Invoking: burial
 fix-unit-occupancy: elapsed time: 0.00708008 secs
 fix-unit-occupancy: elapsed time: 0.00805664 secs
+fix-unit-occupancy: elapsed time: 0.00830078 secs
 fix-unit-occupancy: elapsed time: 0.00683594 secs
-fix-unit-occupancy: elapsed time: 0.00805664 secs
-fix-unit-occupancy: elapsed time: 0.00805664 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00830078 secs
+fix-unit-occupancy: elapsed time: 0.00830078 secs
 Invoking: fix/dead-units
 Invoking: fix/dry-buckets
 Invoking: fix/stuckdoors
 Invoking: burial
+fix-unit-occupancy: elapsed time: 0.0078125 secs
+fix-unit-occupancy: elapsed time: 0.0078125 secs
+Invoking: warn-starving
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+Invoking: burial
+fix-unit-occupancy: elapsed time: 0.0078125 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00732422 secs
+fix-unit-occupancy: elapsed time: 0.00732422 secs
+Invoking: gui/workflow
+Invoking: job-material ALUNITE
+Current job material isn't inorganic: any
+Invoking: job-material RHYOLITE
+Current job material isn't inorganic: any
+fix-unit-occupancy: elapsed time: 0.00732422 secs
+Invoking: warn-starving
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00585938 secs
+fix-unit-occupancy: elapsed time: 0.0078125 secs
+Invoking: burial
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00732422 secs
+fix-unit-occupancy: elapsed time: 0.00732422 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+Invoking: labormanager priority HUNT 200
+fix-unit-occupancy: elapsed time: 0.00634766 secs
+fix-unit-occupancy: elapsed time: 0.00585938 secs
+fix-unit-occupancy: elapsed time: 0.0078125 secs
+Invoking: burial
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00830078 secs
+Invoking: warn-starving
+fix-unit-occupancy: elapsed time: 0.00585938 secs
+fix-unit-occupancy: elapsed time: 0.00830078 secs
+fix-unit-occupancy: elapsed time: 0.0078125 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00585938 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+Invoking: fix/dead-units
+Invoking: fix/dry-buckets
+Invoking: fix/stuckdoors
+Invoking: burial
+fix-unit-occupancy: elapsed time: 0.00732422 secs
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+Invoking: warn-starving
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00732422 secs
+Invoking: burial
+Invoking: gui/workflow
+fix-unit-occupancy: elapsed time: 0.0078125 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.0078125 secs
+fix-unit-occupancy: elapsed time: 0.00683594 secs
+fix-unit-occupancy: elapsed time: 0.00830078 secs
+Invoking: warn-starving
+Invoking: burial
+Forgetting job 5487 (MakeBucket): holder building lost.
+Forgetting job 5406 (MakeLye): holder building lost.
+Forgetting job 5313 (MakeAsh): holder building lost.
+Forgetting job 5046 (MakeAmmo): holder building lost.
+Forgetting job 4954 (ButcherAnimal): holder building lost.
+Forgetting job 4875 (PrepareMeal): holder building lost.
+Forgetting job 4851 (ConstructMechanisms): holder building lost.
+Forgetting job 4329 (MakeGoblet): holder building lost.
 Forgetting job 3921 (ConstructBlocks): holder building lost.
 Forgetting job 3307 (ConstructBin): holder building lost.
 Forgetting job 3060 (ConstructThrone): holder building lost.

@@ -829,3 +829,146 @@ The outpost liaison Rig•th Deg‰likal from Sedilid has arrived.
 A caravan from Sedilid has arrived.
 Their wagons have bypassed your inaccessible site.
 The merchants need a trade depot to unload their goods.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Autumn has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+Stray Dog (Tame) has given birth to puppies.
+x2
+Merchants have arrived and are unloading their goods.
+Ustuth Onollerteth has become a broker.
+Stopping production: drink
+Cannot produce: rock goblet
+Stopping production: wood door
+Cannot produce: wood table
+Tosid Ducimokil, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+x2
+Resuming production: wood barrel
+M–thkat Aranavuz has become a Recruit.
+Moldath Kƒkdalvucar has become a Miner.
+Zon Ishlumdumat has become a militia commander.
+Sibrek Tostastesh has become a Axedwarf.
+Stopping production: wood barrel
+Resuming production: wood box/bag
+Resuming production: wood bin
+Stopping production: wood box/bag
+The merchants from Sedilid will be leaving soon.
+Stopping production: wood bin
+The merchants from Sedilid have embarked on their journey.
+Momuz Oddomamost, Farmer cancels Pickup Equipment: Equipment mismatch.
+Asmel Ed‰mkodor, Mason cancels Construct Building: Creature occupying site.
+The dwarves suspended the construction of Wall.
+Some migrants have arrived.
+Resuming production: drink
+M–thkat Aranavuz has become a Tanner.
+Zon Ishlumdumat has become a militia commander.
+Rakust Shig¢sasmel, Woodworker cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+The blue peacock jumps away from The flying ({copper bolt})!
+Doren Keskalnikot, Miner: In the midst of conflict...  I laugh in the face of death!
+Resuming production: roast
+The flying ({copper bolt}) strikes the blue peacock in the left upper leg, fracturing the bone!
+An artery has been opened by the attack and a tendon has been torn!
+The force bends the left hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The blue peacock falls over.
+The flying ({copper bolt}) strikes the blue peacock in the lower body, tearing the muscle and tearing apart the pancreas!
+The flying ({copper bolt}) strikes the blue peacock in the fourth toe, left foot, shattering the talon!
+The force bends the left foot, tearing apart the muscle and bruising the bone and tearing apart the left knee's muscle and bruising the bone!
+An artery has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!
+A ligament in the left knee has been torn and a tendon has been torn!
+The flying ({copper bolt}) strikes the blue peacock in the left lower leg, tearing the muscle!
+A motor nerve has been severed!
+The ({copper bolt}) has lodged firmly in the wound!
+The flying ({copper bolt}) strikes the blue peacock in the left upper leg and the injured part is cloven asunder!
+An artery has been opened by the attack and a tendon has been torn!
+The force twists the left hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The blue peacock gives in to pain.
+The flying ({copper bolt}) strikes the blue peacock in the right lower leg, fracturing the bone!
+A sensory nerve has been severed, a ligament has been torn and a tendon has been torn!
+The blue peacock regains consciousness.
+The blue peacock gives in to pain.
+The flying ({copper bolt}) strikes the blue peacock in the right lower leg and the injured part is cloven asunder!
+An artery has been opened by the attack, a motor nerve has been severed, a ligament has been torn and a tendon has been torn!
+The force twists the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The flying ({copper bolt}) strikes the blue peacock in the left upper leg, shattering the bone!
+An artery has been opened by the attack, many nerves have been severed and a tendon has been torn!
+The force bends the left hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+Momuz Oddomamost, Farmer cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Olon Logemsulus, Tanner cancels Construct Traction Bench: Needs mechanisms.
+Stopping production: roast
+Asmel Ed‰mkodor has become a Stonecrafter.
+The blue peacock jumps away from The flying {tea wood bolt}!
+Domas Sarvesht“sed, Lye Maker: This is a fight!  I feel no terror.
+The blue peacock jumps away from The flying {tea wood bolt}!
+The flying {tea wood bolt} strikes the blue peacock in the left upper leg, tearing the fat!
+The blue peacock jumps away from The flying {tea wood bolt}!
+The flying {tea wood bolt} strikes the blue peacock in the right lower leg, tearing the fat!
+The {tea wood bolt} has lodged firmly in the wound!
+The flying {tea wood bolt} strikes the blue peacock in the lower body, tearing the muscle and bruising the guts!
+The blue peacock looks sick!
+The blue peacock vomits.
+The flying {tea wood bolt} strikes the blue peacock in the left lower leg, tearing the muscle and bruising the bone!
+A tendon has been torn!
+The force pulls the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The blue peacock falls over.
+The blue peacock retches.
+The blue peacock vomits.
+The flying {tea wood bolt} strikes the blue peacock in the neck and the severed part sails off in an arc!
+Domas Sarvesht“sed, Lye Maker cancels Return Kill: Interrupted by combat.
+Domas Sarvesht“sed, Lye Maker: I must withdraw!
+Domas Sarvesht“sed, Lye Maker: Help!  Save me!
+The flying {tea wood bolt} strikes the blue peahen in the left upper leg, tearing the muscle and bruising the bone!
+The force pulls the left hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The blue peahen falls over.
+The flying {tea wood bolt} strikes the blue peahen in the right wing, fracturing the bone!
+Domas Sarvesht“sed, Lye Maker cancels Hunt: No ammunition.
+The lye maker bashes the blue peahen in the lower body with his mahogany crossbow, bruising the fat!
+Domas Sarvesht“sed, Lye Maker: I must withdraw!
+Stopping production: rock mechanism
+‹ngiz Luzatrig•th, bookkeeper cancels Dig: Taken by mood.
+‹ngiz Luzatrig•th, bookkeeper is taken by a fey mood!
+Tosid Ducimokil, Tavern Keeper cancels Plant Seeds: Needs plump helmet spawn.
+Olon Logemsulus, Tanner cancels Drink: Job item lost or destroyed.
+Tobul Nil“sust has become a Miner.
+Tosid Ducimokil, Tavern Keeper cancels Make Lye: Needs empty bucket.
+Resuming production: lye liquid
+The flying ({copper bolt}) strikes the blue peacock in the lower body, tearing the muscle and tearing the guts!
+The blue peacock looks sick!
+The blue peacock vomits.
+The blue peacock retches.
+The flying ({copper bolt}) strikes the blue peacock in the neck and the severed part sails off in an arc!
+Udil Lolorgulnas, Soap Maker cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Likot Nebshem, Bookbinder cancels Pickup Equipment: Equipment mismatch.
+Stopping production: drink
+The blue peahen jumps away from The flying ({copper bolt})!
+The flying ({copper bolt}) misses the blue peahen!
+The blue peahen jumps away from The flying ({copper bolt})!
+The flying ({copper bolt}) strikes the blue peahen in the right upper leg, fracturing the bone!
+An artery has been opened by the attack and a tendon has been torn!
+The blue peahen falls over.
+The flying {date palm wood bolt} strikes the blue peahen in the upper body, tearing the muscle and tearing the liver!
+The flying {date palm wood bolt} strikes the blue peahen in the upper body, tearing the muscle and tearing the left lung!
+The blue peahen is having trouble breathing!
+The blue peahen rolls away from The flying {date palm wood bolt}!
+The flying {date palm wood bolt} strikes the blue peahen in the lower body, tearing the muscle and tearing apart the spleen!
+Al†th Isonal†th, Bookbinder: I have improved my crossbow.  That was satisfying.
+Al†th Isonal†th, Bookbinder: I have improved my archery.  That was satisfying.
+The flying {date palm wood bolt} strikes the blue peahen in the lower body, tearing the muscle and tearing apart the spleen!
+Winter has arrived on the calendar.
+M–thkat Aranavuz has become a Recruit.
+Rakust Ubbuliseth has become a Recruit.
+Zon Ishlumdumat has become a militia commander.
+Sibrek Tostastesh has become a Miner.
+The flying {date palm wood bolt} strikes the blue peahen in the left upper leg, fracturing the bone!
+A motor nerve has been severed and a tendon has been torn!
+The force bends the left hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The blue peahen gives in to pain.
+The flying {date palm wood bolt} strikes the blue peahen in the neck and the severed part sails off in an arc!

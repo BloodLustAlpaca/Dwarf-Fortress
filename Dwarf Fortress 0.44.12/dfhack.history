@@ -1,3 +1,9 @@
+labormanager priority HUNT 200
+labormanager priority HUNT 1000
+labormanager list
+labormanager priority HUNT 200
+labormanager list
+labormanager allow-hunting
 labormanager list
 labormanager allow-hunting
 labormanager list
