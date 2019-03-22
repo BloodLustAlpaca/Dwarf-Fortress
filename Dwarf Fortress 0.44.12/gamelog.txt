@@ -972,3 +972,653 @@ The force bends the left hip, tearing apart the muscle and bruising the bone and
 A ligament has been torn and a tendon has been torn!
 The blue peahen gives in to pain.
 The flying {date palm wood bolt} strikes the blue peahen in the neck and the severed part sails off in an arc!
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Winter has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+Cannot produce: wood table
+Bomrek NishrŒthol has become a Axedwarf.
+Moldath Kƒkdalvucar has become a Recruit.
+Zon Ishlumdumat has become a militia commander.
+Sibrek Tostastesh has become a Axedwarf.
+Al†th Isonal†th, Bookbinder cancels Return Kill: Could not find path.
+Bomrek NishrŒthol has become a Planter.
+Moldath Kƒkdalvucar has become a Miner.
+Zon Ishlumdumat has become a militia commander.
+Sibrek Tostastesh has become a Miner.
+Al†th Isonal†th, Bookbinder cancels Hunt: No ammunition.
+The flying {date palm wood bolt} strikes the wild boar sow in the lower body, tearing the fat and bruising the muscle!
+Al†th Isonal†th, Bookbinder: I must withdraw!
+Sibrek Tostastesh, Miner cancels Pickup Equipment: Equipment mismatch.
+The Stray Puppy (Tame) has been slaughtered.
+x2
+Stopping production: glob
+The Stray Puppy (Tame) has been slaughtered.
+Stopping production: lye liquid
+The flying {bitter orange wood bolt} strikes the wild boar in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The wild boar looks sick!
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The flying {bitter orange wood bolt} strikes the wild boar in the left rear leg, tearing the fat and bruising the muscle!
+The wild boar vomits.
+The flying {bitter orange wood bolt} strikes the wild boar in the tail, tearing the muscle!
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The flying {bitter orange wood bolt} strikes the wild boar in the left front leg, tearing the fat and bruising the muscle!
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The wild boar jumps away from The flying {bitter orange wood bolt}!
+Sibrek Tostastesh has become a Planter.
+The flying {bitter orange wood bolt} strikes the wild boar in the left front leg, tearing the fat and bruising the muscle!
+Tosid Ducimokil, Tavern Keeper: I have improved my archery.  That was satisfying.
+Tosid Ducimokil, Tavern Keeper: I have improved my crossbow.  That was satisfying.
+Stopping production: milk liquid
+The flying {bitter orange wood bolt} strikes the wild boar in the left rear leg, tearing the fat and bruising the muscle!
+The flying {bitter orange wood bolt} strikes the wild boar in the left front leg, tearing the fat and bruising the muscle!
+Zon Ishlumdumat has become a militia commander.
+Moldath Kƒkdalvucar, Miner cancels Make soap from tallow: Needs lye-containing item.
+The flying {bitter orange wood bolt} strikes the wild boar in the upper body, tearing the fat and bruising the muscle!
+Tosid Ducimokil, Tavern Keeper cancels Hunt: No ammunition.
+Tosid Ducimokil, Tavern Keeper: I must withdraw!
+The flying {bitter orange wood bolt} strikes the wild boar in the upper body, tearing the fat and bruising the muscle and bruising the liver!
+Tosid Ducimokil, Tavern Keeper: I must withdraw!
+Resuming production: lye liquid
+Stopping production: wood bucket
+Resuming production: soap bars
+Tosid Ducimokil, Tavern Keeper: I must withdraw!
+Stock level is low: wood splint
+Stock level is low: wood crutch
+Resuming production: rock mechanism
+You have discovered an expansive cavern deep underground.
+The flying {tea wood bolt} strikes the wild boar sow in the left front leg, tearing the fat and bruising the muscle!
+The stray dog attacks the wild boar but He jumps away!
+The wild boar attacks the stray dog but He jumps away!
+The stray dog scratches the wild boar in the left rear leg, denting the skin and bruising the muscle!
+The wild boar misses the stray dog!
+The stray dog scratches the wild boar in the right rear leg, denting the skin and bruising the muscle!
+The stray dog scratches the wild boar in the lower body, denting the skin and bruising the muscle!
+Bomrek NishrŒthol has become a Axedwarf.
+Moldath Kƒkdalvucar has become a Recruit.
+Zon Ishlumdumat has become a militia commander.
+Sibrek Tostastesh has become a Axedwarf.
+The stray dog attacks the wild boar but He jumps away!
+The stray dog scratches the wild boar in the right front leg, denting the skin and bruising the muscle!
+The stray dog scratches the wild boar in the left tusk, but the attack glances away!
+The stray dog misses the wild boar!
+The stray dog scratches the wild boar in the left rear leg, denting the skin and bruising the muscle!
+The flying {tea wood bolt} strikes the wild boar sow in the upper body, tearing the fat and bruising the muscle!
+The wild boar sow is having trouble breathing!
+The wild boar jumps away from The flying {mahogany bolt}!
+The stray dog attacks the wild boar but He jumps away!
+Sibrek Tostastesh, Axedwarf: This is a fight!  I feel no terror.
+The stray dog attacks the wild boar but He jumps away!
+The stray dog scratches the wild boar in the upper body, denting the skin and bruising the fat!
+The stray dog attacks the wild boar but He jumps away!
+The stray dog scratches the wild boar in the neck, denting the skin and bruising the muscle!
+The stray dog scratches the wild boar in the right rear leg, denting the skin and bruising the muscle!
+The stray dog scratches the wild boar in the left rear leg, denting the skin and bruising the muscle!
+The stray dog attacks the wild boar but He jumps away!
+The wild boar sow jumps away from The flying {tea wood bolt}!
+The stray dog attacks the wild boar but He jumps away!
+The stray dog scratches the wild boar in the right front hoof, but the attack glances away!
+The stray dog scratches the wild boar in the lower body, denting the skin and bruising the fat!
+The stray dog scratches the wild boar in the head, denting the skin and bruising the fat!
+The force bends the neck!
+The stray dog attacks the wild boar but He jumps away!
+The stray dog scratches the wild boar in the left front leg, denting the skin and bruising the fat!
+The stray dog scratches the wild boar in the right rear leg, denting the skin and bruising the muscle!
+The stray dog attacks the wild boar but He jumps away!
+The stray dog scratches the wild boar in the neck, denting the skin and bruising the muscle!
+The stray dog attacks the wild boar but He jumps away!
+The flying {tea wood bolt} strikes the wild boar sow in the upper body, tearing the fat and bruising the muscle!
+The axedwarf stands up.
+The stray dog attacks the wild boar but He jumps away!
+The stray dog scratches the wild boar in the head, denting the skin and bruising the fat!
+The force bends the neck!
+The stray dog attacks the wild boar but He jumps away!
+The stray dog scratches the wild boar in the left eye, denting it!
+The force pulls the head!
+The stray dog misses the wild boar!
+The stray dog scratches the wild boar in the left tusk, but the attack glances away!
+The flying {tea wood bolt} strikes the wild boar sow in the right rear leg, tearing the fat and bruising the muscle!
+The stray dog scratches the wild boar in the upper body, denting the skin and bruising the fat!
+The flying {tea wood bolt} strikes the wild boar sow in the right front hoof, but the attack glances away!
+The force bends the right front leg!
+The stray dog misses the wild boar!
+The stray dog attacks the wild boar but He jumps away!
+The flying {tea wood bolt} strikes the wild boar sow in the right rear leg, tearing the fat and bruising the muscle!
+The stray dog attacks the wild boar but He jumps away!
+The stray dog misses the wild boar!
+The stray dog attacks the wild boar but He jumps away!
+The flying {tea wood bolt} strikes the wild boar sow in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The wild boar sow looks sick!
+The wild boar sow vomits.
+The flying {tea wood bolt} strikes the wild boar sow in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The wild boar sow vomits.
+The wild boar sow retches.
+Tosid Ducimokil, Tavern Keeper cancels Hunt: No ammunition.
+The flying {tea wood bolt} strikes the wild boar sow in the left rear leg, tearing the fat and bruising the muscle!
+Tosid Ducimokil, Tavern Keeper: I must withdraw!
+The wild boar sow vomits.
+Tosid Ducimokil, Tavern Keeper: I must withdraw!
+The wild boar sow retches.
+The wild boar sow vomits.
+Tosid Ducimokil, Tavern Keeper: I must withdraw!
+The wild boar sow retches.
+The wild boar sow vomits.
+The wild boar sow retches.
+Tosid Ducimokil, Tavern Keeper: I must withdraw!
+The wild boar sow retches.
+The wild boar sow vomits.
+The wild boar sow retches.
+Tosid Ducimokil, Tavern Keeper: I must withdraw!
+The wild boar sow retches.
+The flying {tea wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+The wild boar sow vomits.
+The wild boar sow retches.
+The flying {tea wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+The wild boar sow retches.
+The wild boar sow vomits.
+The wild boar sow retches.
+The flying {tea wood bolt} strikes the wild boar in the upper body, tearing the muscle and bruising the liver!
+The wild boar sow vomits.
+The wild boar sow retches.
+The flying {tea wood bolt} strikes the wild boar in the left rear leg, tearing the muscle!
+The flying {bitter orange wood bolt} strikes the wild boar in the right front leg, tearing the muscle!
+Moldath Kƒkdalvucar, Recruit: In the midst of conflict...  I feel no terror.
+The flying {tea wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+The wild boar sow vomits.
+The flying {bitter orange wood bolt} strikes the wild boar in the right rear leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the left rear leg, tearing the muscle!
+The wild boar sow retches.
+The wild boar sow stands up.
+Moldath Kƒkdalvucar has become a Marksdwarf.
+The flying {tea wood bolt} strikes the wild boar in the lower body, tearing the muscle and bruising the lower spine's bone!
+The flying {bitter orange wood bolt} strikes the wild boar in the left rear leg, tearing the muscle!
+Moldath Kƒkdalvucar, Marksdwarf: I have improved my crossbow.  That was satisfying.
+The wild boar sow vomits.
+The flying {tea wood bolt} strikes the wild boar in the left rear leg, tearing the muscle!
+The wild boar sow retches.
+The flying {bitter orange wood bolt} strikes the wild boar in the right front leg, tearing the muscle!
+The flying {bitter orange wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the upper body, tearing the muscle!
+The wild boar is having trouble breathing!
+The flying {tea wood bolt} strikes the wild boar in the left rear leg, tearing the muscle!
+The flying {bitter orange wood bolt} strikes the wild boar in the head, tearing the muscle!
+The force pulls the neck, tearing apart the skin!
+The flying {tea wood bolt} strikes the wild boar in the right front leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the upper body, tearing the muscle and bruising the left lung!
+The wild boar is having trouble breathing!
+The flying {bitter orange wood bolt} strikes the wild boar in the head, tearing the muscle!
+The wild boar has been knocked unconscious!
+The force twists the neck, tearing apart the skin!
+The flying {tea wood bolt} strikes the wild boar in the lower body, tearing the muscle and bruising the right kidney!
+Zon Ishlumdumat, militia commander: I have improved my archery.  That was satisfying.
+The flying {tea wood bolt} strikes the wild boar in the right front leg, tearing the muscle!
+The flying {bitter orange wood bolt} strikes the wild boar in the upper body, tearing the muscle and bruising the liver!
+The flying {bitter orange wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the right rear hoof, but the attack glances away!
+The force pulls the right rear leg!
+The wild boar regains consciousness.
+The flying {tea wood bolt} strikes the wild boar in the upper body, tearing the muscle and bruising the left lung!
+The wild boar is no longer stunned.
+The flying {bitter orange wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+Moldath Kƒkdalvucar, Marksdwarf: I have improved my archery.  That was satisfying.
+The flying {bitter orange wood bolt} strikes the wild boar in the lower body, tearing the muscle and bruising the guts!
+The flying {bitter orange wood bolt} strikes the wild boar in the lower body, tearing the muscle and bruising the stomach!
+Stopping production: rock mechanism
+The flying {bitter orange wood bolt} strikes the wild boar in the lower body, tearing the muscle and bruising the guts!
+The flying {bitter orange wood bolt} strikes the wild boar in the upper body, tearing the muscle and bruising the left lung!
+The flying {-mahogany bolt-} strikes the wild boar in the left rear leg, tearing the muscle!
+The flying {mahogany bolt} strikes the wild boar in the lower body, tearing the muscle and bruising the stomach!
+The flying {mahogany bolt} strikes the wild boar in the nose and the severed part sails off in an arc!
+Zon Ishlumdumat, militia commander: I have improved my crossbow.  That was satisfying.
+The flying {mahogany bolt} strikes the wild boar in the right front leg, tearing the muscle!
+The flying {mahogany bolt} strikes the wild boar in the neck, tearing the muscle!
+The flying {mahogany bolt} strikes the wild boar in the left rear leg, tearing the muscle!
+The flying {mahogany bolt} strikes the wild boar in the upper body, tearing the muscle and bruising the liver!
+The flying {mahogany bolt} strikes the wild boar in the throat, tearing the skin!
+A major artery has been opened by the attack!
+The force bends the neck, tearing apart the skin!
+The flying {mahogany bolt} strikes the wild boar in the right front leg, tearing the muscle!
+The flying {-mahogany bolt-} strikes the wild boar in the upper body, tearing the muscle and bruising the liver!
+Bomrek NishrŒthol has become a Planter.
+Moldath Kƒkdalvucar has become a Miner.
+Zon Ishlumdumat has become a militia commander.
+Sibrek Tostastesh has become a Planter.
+Resuming production: drink
+You have struck sphalerite!
+You have struck mica!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the upper body, tearing the muscle and bruising the heart!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the right front leg, tearing the muscle!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the left rear hoof, but the attack glances away!
+The force twists the left rear leg!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the upper body, tearing the muscle and bruising the heart!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the lower body, tearing the muscle and bruising the spleen!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the upper body, tearing the muscle and bruising the right lung!
+The wild boar is having trouble breathing!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the head, tearing the muscle!
+The wild boar has been stunned!
+The force pulls the neck, tearing apart the skin!
+The wild boar is no longer stunned.
+The flying {+bitter orange wood bolt+} strikes the wild boar in the left rear leg, tearing the muscle!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the left front leg, tearing the muscle!
+The wild boar falls over.
+The flying {+bitter orange wood bolt+} strikes the wild boar in the upper body, tearing the muscle and bruising the right lung!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the left rear leg, tearing the muscle!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the left front leg, tearing the muscle!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the right rear leg, tearing the muscle!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the left rear leg, tearing the muscle!
+The flying {+bitter orange wood bolt+} strikes the wild boar in the tail, tearing the muscle and bruising the bone!
+A tendon has been torn!
+Tosid Ducimokil, Tavern Keeper cancels Hunt: No ammunition.
+The flying {+bitter orange wood bolt+} strikes the wild boar in the left rear leg, tearing the muscle!
+Tosid Ducimokil, Tavern Keeper: I must withdraw!
+‹ngiz Luzatrig•th, Papermaker cancels Strange Mood: Went insane.
+‹ngiz Luzatrig•th, Papermaker has gone berserk!
+Vucar Konosdod¢k, Dwarven Child cancels Eat: Interrupted by a papermaker.
+The papermaker misses the dwarven child!
+Vucar Konosdod¢k, Dwarven Child: This is my fight too.  This might require an answer.
+The dwarven child kicks the papermaker in the lower body with her right foot, bruising the muscle and bruising the right kidney through the (great horned owl leather dress)!
+The dwarven child scratches the papermaker in the head, tearing the fat and bruising the muscle!
+The papermaker has been stunned!
+The force pulls the neck, tearing apart the skin!
+The papermaker misses the dwarven child!
+The dwarven child kicks the papermaker in the left lower arm with her left foot, bruising the muscle through the (great horned owl leather dress)!
+The force twists the left elbow, tearing apart the muscle and tearing apart the muscle!
+Vucar Konosdod¢k, Dwarven Child: I have a part in this.  This might require an answer.
+The papermaker misses the dwarven child!
+Stock level is low: rock coffin
+Bomrek NishrŒthol has become a Axedwarf.
+Moldath Kƒkdalvucar has become a Marksdwarf.
+Zon Ishlumdumat has become a militia commander.
+Sibrek Tostastesh has become a Axedwarf.
+The dwarven child kicks the papermaker in the right eye with her right foot, bruising the right eyelid's skin through the (great horned owl leather dress)!
+The force bends the head, tearing apart the skin!
+The papermaker misses the dwarven child!
+Vucar Konosdod¢k, Dwarven Child: In the midst of conflict...  I feel no terror.
+The dwarven child punches the papermaker in the left lower arm with her right hand, bruising the muscle through the (great horned owl leather dress)!
+The force pulls the left elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The papermaker misses the dwarven child!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle through the (dog leather cap)!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The papermaker attacks the dwarven child but She jumps away!
+The dwarven child scratches the papermaker in the upper body, bruising the muscle and bruising the right lung through the x(cave spider silk vest)x!
+The papermaker is having trouble breathing!
+The papermaker misses the dwarven child!
+‹ngiz Luzatrig•th, Papermaker: I've been wounded.  That's very annoying.
+The dwarven child scratches the papermaker in the right lower leg, bruising the muscle through the X(great horned owl leather dress)X!
+The force bends the right knee!
+The papermaker misses the dwarven child!
+The dwarven child scratches the papermaker in the second toe, right foot, shattering the nail and bruising the fat through the (alpaca wool shoe)!
+The force bends the right foot!
+The papermaker misses the dwarven child!
+The dwarven child punches the papermaker in the right foot with her right hand, bruising the muscle through the (alpaca wool shoe)!
+The force twists the right ankle, tearing apart the muscle and tearing apart the muscle!
+The papermaker falls over.
+The papermaker misses the dwarven child!
+The dwarven child kicks the papermaker in the upper front teeth with her left foot and the severed part sails off in an arc!
+The papermaker misses the dwarven child!
+The dwarven child punches the papermaker in the left lower arm with her left hand, bruising the muscle through the X(great horned owl leather dress)X!
+The force twists the left elbow, tearing apart the muscle and tearing apart the muscle!
+The papermaker attacks the dwarven child but She jumps away!
+The papermaker misses the dwarven child!
+‹ngiz Luzatrig•th, Papermaker: I've been injured badly.  There is no hope!
+The dwarven child kicks the papermaker in the third toe, left foot with her right foot, tearing apart the skin and bruising the fat through the (alpaca wool shoe)!
+The force bends the left foot, tearing apart the skin and tearing apart the left knee's muscle and bruising the bone!
+A ligament in the left knee has been bruised and a tendon has been bruised!
+The papermaker misses the dwarven child!
+The dwarven child punches the papermaker in the left upper arm with her right hand, bruising the bone through the X(great horned owl leather dress)X!
+The force twists the left shoulder!
+The papermaker is no longer stunned.
+The papermaker misses the dwarven child!
+The dwarven child punches the papermaker in the left upper arm with her left hand, fracturing the bone through the X(great horned owl leather dress)X!
+The force twists the left shoulder, bruising the muscle and bruising the muscle!
+The papermaker attacks the dwarven child but She jumps away!
+The dwarven child scratches the papermaker in the left upper leg, bruising the bone through the XX(great horned owl leather dress)XX!
+The force bends the left hip!
+The papermaker attacks the dwarven child but She jumps away!
+The dwarven child punches the papermaker in the left upper arm with her right hand, bruising the muscle through the XX(great horned owl leather dress)XX!
+The force bends the left shoulder!
+The papermaker bites the dwarven child in the second toe, left foot, shattering the nail through the x(pig tail shoe)x!
+The papermaker latches on firmly!
+The stray hunting dog bites the papermaker in the upper body, bruising the fat through the XX(great horned owl leather dress)XX!
+The XX(great horned owl leather dress)XX breaks!
+The stray hunting dog latches on firmly!
+The dwarven child kicks the papermaker in the upper right back teeth with her right foot and the severed part sails off in an arc!
+The papermaker breaks the grip of The stray hunting dog's teeth on the papermaker's upper body.
+The papermaker shakes the dwarven child around by the second toe, left foot and the severed part sails off in an arc!
+The second toe, left foot is ripped away and remains in The papermaker's grip!
+The papermaker misses the dwarven child!
+The stray hunting dog bites the papermaker in the right upper arm, tearing the fat and bruising the muscle!
+The stray hunting dog latches on firmly!
+The dwarven child kicks the papermaker in the right upper arm with her right foot, bruising the bone!
+The force twists the right shoulder, bruising the muscle and bruising the muscle!
+Vucar Konosdod¢k, Dwarven Child: So easily broken...  This doesn't scare me.
+The papermaker breaks the grip of The stray hunting dog's teeth on the papermaker's right upper arm.
+The papermaker attacks the stray hunting dog but He jumps away!
+The dwarven child punches the papermaker in the neck with her right hand, bruising the muscle!
+The papermaker attacks the dwarven child but She jumps away!
+Udil Lolorgulnas, Soap Maker cancels Make soap from tallow: Interrupted by a papermaker.
+The dwarven child punches the papermaker in the left upper leg with her right hand, bruising the bone through the X(dingo leather trousers)X!
+The force twists the left hip!
+The stray hunting dog bites the papermaker in the left lower leg, bruising the muscle through the XX(dingo leather trousers)XX!
+The stray hunting dog latches on firmly!
+The papermaker strikes the stray hunting dog in the right rear leg with his (copper pick), tearing apart the muscle!
+An artery has been opened by the attack and a sensory nerve has been severed!
+The dwarven child punches the papermaker in the left upper arm with her left hand, bruising the muscle!
+The force pulls the left shoulder!
+The papermaker breaks the grip of The stray hunting dog's teeth on the papermaker's left lower leg.
+Vucar Konosdod¢k, Dwarven Child: This is my fight too.  This might require an answer.
+The papermaker misses the dwarven child!
+The stray hunting dog bites the papermaker in the left hand, tearing the fat and bruising the muscle through the x(cave spider silk left glove)x!
+The dwarven child punches the papermaker in the left upper arm with her left hand, bruising the bone!
+The force twists the left shoulder!
+The papermaker strikes the stray hunting dog in the right front leg with his (copper pick), tearing apart the fat!
+The dwarven child punches the papermaker in the left lower arm with her left hand, bruising the muscle!
+‹ngiz Luzatrig•th, Papermaker: I have improved my fighting.  That was satisfying.
+The stray hunting dog bites the papermaker in the left upper leg, bruising the muscle through the XX(dingo leather trousers)XX!
+The papermaker misses the dwarven child!
+The dwarven child punches the papermaker in the upper body with her left hand, bruising the muscle and bruising the liver through the x(cave spider silk vest)x!
+The stray hunting dog scratches the papermaker in the upper body, bruising the muscle through the X(cave spider silk vest)X!
+The dwarven child punches the papermaker in the right hand with her left hand, bruising the bone through the (cave spider silk right glove)!
+The force bends the right wrist, bruising the muscle and bruising the muscle!
+The papermaker misses the dwarven child!
+The stray hunting dog bites the papermaker in the upper body, tearing the fat and bruising the muscle!
+The stray hunting dog latches on firmly!
+The dwarven child bites the papermaker in the right lower arm, tearing the fat and bruising the muscle!
+The dwarven child latches on firmly!
+Vucar Konosdod¢k, Dwarven Child: I have a part in this.  This might require an answer.
+The papermaker strikes the dwarven child in the right lower arm with his (copper pick), tearing apart the muscle through the X(alpaca wool dress)X!
+The (copper pick) has lodged firmly in the wound!
+The papermaker breaks the grip of The stray hunting dog's teeth on the papermaker's upper body.
+The papermaker breaks the grip of The dwarven child's upper front teeth on the papermaker's right lower arm.
+The stray hunting dog bites the papermaker in the right lower leg, tearing the fat and bruising the muscle through the XX(dingo leather trousers)XX!
+The XX(dingo leather trousers)XX breaks!
+The stray hunting dog latches on firmly!
+The dwarven child punches the papermaker in the right foot with her left hand, bruising the bone through the (alpaca wool shoe)!
+The force pulls the right ankle, tearing apart the muscle and tearing apart the muscle!
+‹ngiz Luzatrig•th, Papermaker: I have improved my mining.  That was satisfying.
+The papermaker breaks the grip of the stray hunting dog's teeth on The papermaker's right lower leg.
+The papermaker pulls on the embedded (copper pick).
+The papermaker gains possession of the (copper pick).
+The stray hunting dog scratches the papermaker in the lower body, bruising the muscle and bruising the guts through the X(cave spider silk vest)X!
+The papermaker misses the dwarven child!
+The dwarven child scratches the papermaker in the right lower leg, tearing the fat and bruising the muscle!
+The force pulls the right knee!
+Vucar Konosdod¢k, Dwarven Child: This is my fight too.  This might require an answer.
+The papermaker misses the dwarven child!
+The stray hunting dog bites the papermaker in the right foot, tearing the fat and bruising the muscle through the x(alpaca wool shoe)x!
+The stray hunting dog latches on firmly!
+The dwarven child punches the papermaker in the right foot with her left hand, bruising the bone through the x(alpaca wool shoe)x!
+The force bends the right ankle, bruising the muscle and bruising the muscle!
+The papermaker breaks the grip of The stray hunting dog's teeth on the papermaker's right foot.
+The papermaker lets the Vucar Konosdod¢k's second toe, left foot drop away as He attacks.
+The papermaker bites the stray hunting dog in the head, tearing the fat and bruising the muscle!
+The papermaker latches on firmly!
+The stray hunting dog bites the papermaker in the left upper arm, tearing the fat and bruising the muscle!
+The dwarven child scratches the papermaker in the third finger, right hand, tearing the fat and bruising the muscle through the x(cave spider silk right glove)x!
+The force pulls the right hand, tearing apart the skin and bruising the right elbow's muscle!
+Vucar Konosdod¢k, Dwarven Child: I've been wounded.  That's very annoying.
+The papermaker shakes the stray hunting dog around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The dwarven child scratches the papermaker in the left cheek, tearing the skin!
+The force twists the head, tearing apart the hair and bruising the skin!
+The papermaker misses the dwarven child!
+The axedwarf hacks the papermaker in the right lower leg with her (copper battle axe), tearing apart the muscle!
+Many nerves have been severed!
+The (copper battle axe) has lodged firmly in the wound!
+The papermaker misses the dwarven child!
+The axedwarf pulls on the embedded (copper battle axe).
+The axedwarf gains possession of the (copper battle axe).
+The dwarven child kicks the papermaker in the right ear with her right foot and the injured part collapses!
+The force twists the head, tearing apart the skin!
+The axedwarf hacks the papermaker in the left lower leg with her (copper battle axe), tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, a motor nerve has been severed, a ligament has been torn and a tendon has been torn!
+The force bends the left knee!
+The stray hunting dog bites the papermaker in the right lower leg!
+A tendon has been torn!
+The stray hunting dog latches on firmly!
+The papermaker misses the dwarven child!
+The axedwarf hacks the papermaker in the lower body with her (copper battle axe), tearing the muscle and bruising the guts!
+The papermaker breaks the grip of The stray hunting dog's teeth on the papermaker's right lower leg.
+The dwarven child bites the papermaker in the left hand, tearing the fat and bruising the muscle through the X(cave spider silk left glove)X!
+The dwarven child latches on firmly!
+The papermaker misses the dwarven child!
+The stray hunting dog scratches the papermaker in the left lower leg!
+A tendon has been torn!
+The force bends the left knee!
+The papermaker breaks the grip of The dwarven child's upper front teeth on the papermaker's left hand.
+The axedwarf hacks the papermaker in the left lower leg with her (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack and many nerves have been severed!
+The papermaker passes out from exhaustion.
+The dwarven child punches the papermaker in the upper body with her left hand, bruising the muscle, bruising the right false ribs!
+The stray hunting dog bites the papermaker in the head, bruising the muscle through the (dog leather cap)!
+The stray hunting dog latches on firmly!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle through the x(dog leather cap)x!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The stray hunting dog shakes the papermaker around by the head, tearing apart the head's fat!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+Vucar Konosdod¢k, Dwarven Child: I have improved my fighting.  That was satisfying.
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle!
+A tendon in the skull has been torn!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle through the X(dog leather cap)X!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle through the X(dog leather cap)X!
+The force twists the neck, tearing apart the skin!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the skin!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle through the XX(dog leather cap)XX!
+A tendon in the skull has been torn!
+The force pulls the neck, tearing apart the fat!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle through the XX(dog leather cap)XX!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force pulls the neck, tearing apart the skin!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force twists the neck, tearing apart the skin!
+Vucar Konosdod¢k, Dwarven Child: I cannot just stand by.  This might require an answer.
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the skin!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle through the XX(dog leather cap)XX!
+A tendon in the skull has been torn!
+The XX(dog leather cap)XX breaks!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The axedwarf hacks the papermaker in the head with her (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The dwarven child punches the papermaker in the head with her left hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+‹ngiz Luzatrig•th, Papermaker has bled to death.
+Bomrek NishrŒthol has become a Planter.
+Moldath Kƒkdalvucar has become a Miner.
+Zon Ishlumdumat has become a militia commander.
+Sibrek Tostastesh has become a Planter.
+Vucar Konosdod¢k, Dwarven Child: Death is all around us.  I feel very uneasy.
+Bomrek NishrŒthol, Planter: Death...  This is truly horrifying.
+Bomrek NishrŒthol, Planter: Can it all end so quickly?  Begone fear!
+The stray hunting dog stands up.
+Tun Cilobesmul, Mason cancels Plant Seeds: Needs plump helmet spawn.
+Al†th Isonal†th, Bookbinder cancels Store Item in Barrel: Job item misplaced.
+The coati attacks the stray dog but She jumps away!
+The stray dog misses the coati!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the right rear leg, denting the skin!
+The coati attacks the stray dog but She jumps away!
+The stray dog attacks the coati but He jumps away!
+The stray dog misses the coati!
+The stray dog attacks the coati but He jumps away!
+The coati scratches the stray dog in the left front paw, denting the skin and bruising the muscle!
+The stray dog attacks the coati but He jumps away!
+The coati scratches the stray dog in the neck, denting the skin and bruising the fat!
+The stray dog attacks the coati but He jumps away!
+The coati attacks the stray dog but She jumps away!
+The stray dog attacks the coati but He jumps away!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the right rear paw, tearing the skin!
+The coati misses the stray dog!
+The stray dog misses the coati!
+The stray dog charges at the coati!
+The stray dog collides with the coati!
+The coati is knocked over and tumbles backward!
+The coati stands up.
+The stray dog scratches the coati in the right front leg, tearing the fat!
+The coati attacks the stray dog but She jumps away!
+The stray dog attacks the coati but He jumps away!
+The stray dog scratches the coati in the tail, denting the skin!
+The stray dog attacks the coati but He jumps away!
+The coati attacks the stray dog but She jumps away!
+The stray dog attacks the coati but He jumps away!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the lower body, tearing the fat!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the right front leg, tearing the fat and bruising the muscle!
+The coati scratches the stray dog in the left front paw, tearing the skin!
+The stray dog attacks the coati but He jumps away!
+The stray dog scratches the coati in the left front paw, tearing the fat and bruising the muscle!
+The stray dog scratches the coati in the left upper incisor and the severed part sails off in an arc!
+The stray dog attacks the coati but He jumps away!
+The stray dog scratches the coati in the lower body, denting the skin and bruising the fat!
+The stray dog charges at the stray dog!
+The stray dog collides with the stray dog!
+The stray dog is knocked over!
+The stray dog stands up.
+The stray dog misses the coati!
+The stray dog is no longer stunned.
+The stray dog scratches the coati in the left rear leg, tearing the fat and bruising the muscle!
+The stray dog scratches the coati in the upper body, denting the skin and bruising the muscle!
+The stray dog scratches the coati in the right rear paw, lightly tapping the target!
+The stray dog scratches the coati in the right rear paw, denting the skin!
+The stray dog misses the coati!
+The stray dog charges at the stray dog!
+The stray dog collides with the stray dog!
+The stray dog is knocked over!
+The stray dog stands up.
+The stray dog scratches the coati in the right rear paw, denting the skin and bruising the muscle!
+The stray dog attacks the coati but He jumps away!
+The stray dog scratches the coati in the left front leg, tearing the fat!
+The stray dog scratches the coati in the second left front toe, but the attack glances away!
+The force pulls the left front paw!
+The stray dog is no longer stunned.
+The stray dog scratches the coati in the right front leg, denting the skin and bruising the fat!
+The stray dog scratches the coati in the right front leg, tearing the fat and bruising the muscle!
+The stray dog scratches the coati in the left rear leg, tearing the fat and bruising the muscle!
+The stray dog stands up.
+The stray dog scratches the coati in the right rear paw, denting the skin!
+The stray dog attacks the coati but He jumps away!
+The stray dog misses the coati!
+The stray dog charges at the coati!
+The stray dog collides with the coati!
+The coati is knocked over and tumbles backward!
+The coati stands up.
+Stopping production: wood crutch
+Al†th Isonal†th, Bookbinder cancels Butcher an Animal: Interrupted by a coati.
+The stray dog attacks the coati but He jumps away!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the second left front toe, but the attack glances away!
+The coati scratches the stray dog in the right front leg, denting the skin and bruising the muscle!
+The stray dog attacks the coati but He jumps away!
+The coati misses the stray dog!
+The stray dog misses the coati!
+The coati attacks the stray dog but She jumps away!
+The coati misses the stray dog!
+The stray dog attacks the coati but He jumps away!
+The bookbinder grabs the coati by the fourth right front toe with her left hand!
+The coati's attack is interrupted!
+The coati attacks the stray dog but She jumps away!
+The coati is unable to break the grip of The bookbinder's left hand on The coati's fourth right front toe!
+The coati misses the stray dog!
+The bookbinder stands up.
+The stray dog scratches the coati in the right front paw, tearing the fat and bruising the muscle!
+The coati misses the bookbinder!
+The bookbinder releases the grip of The bookbinder's left hand from The coati's fourth right front toe.
+Al†th Isonal†th, Bookbinder: I was attacked.  I'm panicking!  I'm panicking!
+Bomrek NishrŒthol has become a Axedwarf.
+Moldath Kƒkdalvucar has become a Marksdwarf.
+Zon Ishlumdumat has become a militia commander.
+Sibrek Tostastesh has become a Axedwarf.
+The bookkeeper hacks the coati in the left front leg with his (copper battle axe), tearing apart the muscle!
+A sensory nerve has been severed!
+The bookkeeper hacks the coati in the left rear leg with his (copper battle axe), tearing apart the fat!
+The bookkeeper hacks the coati in the left front paw with his (copper battle axe), tearing apart the skin!
+The bookkeeper hacks the coati in the left front leg with his (copper battle axe), tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, a sensory nerve has been severed and a tendon has been torn!
+The bookkeeper hacks the coati in the head with his (copper battle axe) and the severed part sails off in an arc!
+The coati has been knocked unconscious!
+Bomrek NishrŒthol has become a Planter.
+Moldath Kƒkdalvucar has become a Miner.
+Zon Ishlumdumat has become a militia commander.
+Sibrek Tostastesh has become a Planter.
+You have struck mica!
+Momuz Oddomamost, Farmer cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Stopping production: wood splint
+Stopping production: drink
+Stukos Atheladag, Fisherdwarf cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Al†th Isonal†th, Bookbinder cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Udil Lolorgulnas, Soap Maker cancels Make soap from tallow: Needs 150 unrotten TALLOW SOAP_MAT-producing glob.
+Resuming production: milk liquid
+Resuming production: wood bucket
+Žs Ost†blel has become a Miner.
+Tun Cilobesmul, Mason cancels Shear Animal: No creature.
+Resuming production: yarn body part
+The blue peacock jumps away from The flying {bitter orange wood bolt}!
+The flying {bitter orange wood bolt} strikes the blue peacock in the lower body, tearing the muscle and bruising the guts!
+The blue peacock jumps away from The flying {bitter orange wood bolt}!
+The flying {bitter orange wood bolt} strikes the blue peacock in the beak and the severed part sails off in an arc!
+The blue peacock stands up.
+The flying {bitter orange wood bolt} strikes the blue peacock in the upper body, tearing the muscle and bruising the left lung!

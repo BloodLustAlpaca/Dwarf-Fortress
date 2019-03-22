@@ -661,3 +661,7 @@
 2019-Mar-22 11:21:52.482 INFO	core	group_by now set to 0  for view  "Labors Full" [E:\projects\Dwarf-Therapist\src\dwarfmodel.cpp:791] (DwarfModel::set_group_by)
 2019-Mar-22 11:21:52.542 INFO	core	loaded rows for "Labors Full" 60 ms [E:\projects\Dwarf-Therapist\src\dwarfmodel.cpp:797] (DwarfModel::set_group_by)
 2019-Mar-22 11:21:52.562 ERROR	core	("No Game Loaded", "A fort has not been loaded.", "", "") [E:\projects\Dwarf-Therapist\src\mainwindow.cpp:510] (MainWindow::lost_df_connection)
+2019-Mar-22 11:23:01.536 INFO	core	Beginning shutdown [E:\projects\Dwarf-Therapist\src\mainwindow.cpp:400] (MainWindow::closeEvent)
+2019-Mar-22 11:23:01.536 INFO	core	beginning to write settings [E:\projects\Dwarf-Therapist\src\mainwindow.cpp:377] (MainWindow::write_settings)
+2019-Mar-22 11:23:01.536 INFO	core	finished writing settings [E:\projects\Dwarf-Therapist\src\mainwindow.cpp:395] (MainWindow::write_settings)
+2019-Mar-22 11:23:01.537 INFO	core	Closing Dwarf Therapist normally [E:\projects\Dwarf-Therapist\src\mainwindow.cpp:406] (MainWindow::closeEvent)

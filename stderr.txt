@@ -1,2 +1,3 @@
 Running PyLNP 0.13b (OS: win, Compiled: True)
 INFO: Read installed graphics (Spacefox) from log
+INFO: E:\Dwarf-Fortress\Dwarf Fortress 0.44.12\Dwarf Fortress.exe is already running

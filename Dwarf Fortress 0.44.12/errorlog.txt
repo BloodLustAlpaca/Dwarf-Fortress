@@ -3,3 +3,4 @@ path fail: dog,94,75,130 -> 95,74,129: Id #1062:Path Goal Seek Station:Station N
 path fail: dog,100,78,129 -> 108,71,130: Id #1273:Path Goal Seek Station Flood:Station Owner at 95,79,130
 path fail: dog,100,78,129 -> 106,75,130: Id #1272:Path Goal Seek Station Flood:Station Milling Flood at 106,75,130
 path fail: dog,100,78,129 -> 107,71,130: Id #1062:Path Goal Seek Station Flood:Station Milling Flood at 107,71,130
+path fail: dwarf,Return Kill,73,80,124 -> 93,74,13: Id #1299:Path Goal Grab Kill:Station Mill Building at 69,68,124
