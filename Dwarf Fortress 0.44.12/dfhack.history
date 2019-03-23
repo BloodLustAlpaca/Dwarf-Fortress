@@ -1,3 +1,5 @@
+labormanager list
+labormanager allow-fishing
 labormanager priority HUNT 100
 labormanager priority HUNT 200
 labormanager priority HUNT 1000

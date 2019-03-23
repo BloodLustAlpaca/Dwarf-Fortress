@@ -1622,3 +1622,117 @@ The blue peacock jumps away from The flying {bitter orange wood bolt}!
 The flying {bitter orange wood bolt} strikes the blue peacock in the beak and the severed part sails off in an arc!
 The blue peacock stands up.
 The flying {bitter orange wood bolt} strikes the blue peacock in the upper body, tearing the muscle and bruising the left lung!
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Winter has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+Olon Logemsulus, Tanner cancels Pickup Equipment: Equipment mismatch.
+Cannot produce: wood table
+Resuming production: yarn body part
+The flying {bitter orange wood bolt} strikes the blue peahen in the left wing, tearing the muscle and bruising the bone!
+The flying {bitter orange wood bolt} strikes the blue peahen in the lower body, tearing the muscle and bruising the pancreas!
+The flying {bitter orange wood bolt} strikes the blue peahen in the head, tearing the muscle!
+The blue peahen has been knocked unconscious!
+The force pulls the neck, tearing apart the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The blue peahen falls over.
+The flying {bitter orange wood bolt} strikes the blue peahen in the right upper leg, fracturing the bone!
+The force twists the right hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The flying {bitter orange wood bolt} strikes the blue peahen in the left upper leg, fracturing the bone!
+The force twists the left hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The flying {bitter orange wood bolt} strikes the blue peahen in the right foot and the severed part sails off in an arc!
+You have struck sphalerite!
+Resuming production: wood crutch
+Olon Logemsulus, Tanner cancels Shear Animal: No creature.
+You have struck sphalerite!
+Stopping production: wood bucket
+Resuming production: yarn body part
+The flying {+tea wood bolt+} strikes the blue peahen in the upper body, tearing the muscle and shattering the right false ribs!
+Momuz Oddomamost, Farmer: In the midst of conflict...  I laugh in the face of death!
+The flying {+tea wood bolt+} strikes the blue peahen in the lower body, tearing the muscle and bruising the spleen!
+Stock level is low: wood crutch
+The flying {+tea wood bolt+} strikes the blue peahen in the upper body, tearing the muscle and bruising the left lung!
+The flying {+tea wood bolt+} strikes the blue peahen in the lower body, tearing the muscle and tearing apart the lower spine's nervous tissue!
+The flying {+tea wood bolt+} strikes the blue peahen in the left upper leg, tearing the muscle!
+A motor nerve has been severed!
+The flying {+tea wood bolt+} strikes the blue peahen in the head, tearing the muscle and bruising the skull!
+The force bends the neck, tearing apart the fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+Stopping production: rock coffin
+The flying {+tea wood bolt+} strikes the blue peahen in the upper body, tearing the muscle and tearing apart the middle spine's nervous tissue!
+The flying {+tea wood bolt+} strikes the blue peahen in the left upper leg, fracturing the bone!
+The force bends the left hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The flying {+tea wood bolt+} strikes the blue peahen in the left lower leg, fracturing the bone!
+The force twists the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The flying {+tea wood bolt+} strikes the blue peahen in the left wing, fracturing the bone!
+Momuz Oddomamost, Farmer: I have improved my archery.  That was not satisfying.
+Momuz Oddomamost, Farmer: I have improved my crossbow.  That was not satisfying.
+The flying {+tea wood bolt+} strikes the blue peahen in the right upper leg, fracturing the bone!
+The force pulls the right hip, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+Stopping production: lye liquid
+Žs Ost†blel, Miner cancels Milk Animal: No creature.
+Likot Nebshem, Bookbinder cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Resuming production: milk liquid
+You have struck mica!
+M–thkat Aranavuz has become a bookkeeper.
+Poults have hatched.
+x2
+Rakust Shig¢sasmel has become a Miner.
+Stopping production: wood crutch
+Not enough free nestbox zones found! You need 9 more.
+Žs Ost†blel, Miner cancels Milk Animal: No creature.
+Resuming production: milk liquid
+Adil Dakostegast, expedition leader cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Resuming production: drink
+Stopping production: cheese
+Rakust Ubbuliseth has become a Farmer.
+Zon Ishlumdumat has become a militia commander.
+Tobul Nil“sust, Miner cancels Milk Animal: No creature.
+Bomrek NishrŒthol, Planter cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Resuming production: milk liquid
+Udil Lolorgulnas has become a Woodcrafter.
+Stopping production: wood bolt
+Bomrek NishrŒthol, Planter cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Not enough free nestbox zones found! You need 5 more.
+Sibrek Tostastesh, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Tosid Ducimokil, Tavern Keeper cancels Milk Animal: No creature.
+Tosid Ducimokil, Tavern Keeper cancels Shear Animal: No creature.
+You have struck sphalerite!
+Resuming production: yarn body part
+Resuming production: milk liquid
+Digging designation cancelled: damp stone located.
+x2
+x3
+x4
+x5
+Stukos Atheladag, Fisherdwarf cancels Pickup Equipment: Equipment mismatch.
+Digging designation cancelled: damp stone located.
+Tun Cilobesmul, Mason cancels Shear Animal: No creature.
+Digging designation cancelled: damp stone located.
+Resuming production: yarn body part
+Digging designation cancelled: damp stone located.
+x2
+x3
+x4
+x5
+Stopping production: ash bars
+Not enough free nestbox zones found! You need 21 more.
+Not enough free nestbox zones found! You need 14 more.
+Not enough free nestbox zones found! You need 5 more.
+Domas Sarvesht“sed, Lye Maker cancels Pickup Equipment: Equipment mismatch.
+Tosid Ducimokil, Tavern Keeper cancels Milk Animal: No creature.
+Resuming production: milk liquid
+The Stray hunting Dog (Tame) has been found dead.
+Likot Nebshem, Bookbinder cancels Shear Animal: No creature.
+Resuming production: yarn body part
