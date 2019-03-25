@@ -1736,3 +1736,404 @@ Resuming production: milk liquid
 The Stray hunting Dog (Tame) has been found dead.
 Likot Nebshem, Bookbinder cancels Shear Animal: No creature.
 Resuming production: yarn body part
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Winter has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+There is nothing to catch in the central swamps.
+Cannot produce: wood table
+Resuming production: yarn body part
+Sibrek Tostastesh, Planter cancels Milk Animal: No creature.
+Likot Nebshem, Bookbinder cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Resuming production: milk liquid
+Stopping production: drink
+Olon Logemsulus, Tanner cancels Milk Animal: No creature.
+Olon Logemsulus, Tanner cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Resuming production: milk liquid
+You have struck mica!
+x2
+x3
+x4
+The flying {+tea wood bolt+} strikes the wild boar in the head, tearing the muscle!
+The wild boar has been stunned!
+The wild boar has been stunned again!
+The force bends the neck, tearing apart the skin!
+The flying {+tea wood bolt+} strikes the wild boar in the right rear leg, tearing the muscle!
+The wild boar is no longer stunned.
+You have struck galena!
+You have struck blue garnet!
+The flying {tea wood bolt} strikes the wild boar in the right rear leg, tearing the muscle!
+You have struck galena!
+The flying {tea wood bolt} strikes the wild boar in the right front leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the lower body, tearing the muscle!
+The wild boar jumps away from The flying {tea wood bolt}!
+Žs Ost†blel has become a Leatherworker.
+The flying {tea wood bolt} strikes the wild boar in the left rear leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the lower body, tearing the muscle and bruising the guts!
+The wild boar looks sick!
+The wild boar collapses and falls to the ground from over-exertion.
+The wild boar stands up.
+The wild boar vomits.
+The wild boar retches.
+Resuming production: wood box/bag
+Resuming production: wood chair
+The flying {tea wood bolt} strikes the wild boar in the upper body, tearing the muscle and bruising the liver!
+The wild boar collapses and falls to the ground from over-exertion.
+The wild boar retches.
+The wild boar vomits.
+The flying {tea wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+The wild boar retches.
+Udil Lolorgulnas, Woodcrafter: I have improved my crossbow.  That was satisfying.
+Udil Lolorgulnas, Woodcrafter: I have improved my archery.  That was satisfying.
+The flying {tea wood bolt} strikes the wild boar in the head, tearing the muscle!
+The wild boar has been knocked unconscious!
+The force pulls the neck, tearing apart the skin!
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+The flying {tea wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+The wild boar retches.
+The wild boar vomits.
+The flying {tea wood bolt} strikes the wild boar in the left rear leg, tearing the muscle!
+The wild boar vomits.
+The flying {tea wood bolt} strikes the wild boar in the lower body, tearing the muscle and bruising the left kidney!
+The flying {tea wood bolt} strikes the wild boar in the upper body, tearing the muscle and bruising the liver!
+The wild boar regains consciousness.
+The flying {tea wood bolt} strikes the wild boar in the right rear leg, tearing the muscle!
+The wild boar is no longer stunned.
+The flying {tea wood bolt} strikes the wild boar in the right rear leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the right front leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the left front leg, tearing the muscle!
+Udil Lolorgulnas, Woodcrafter cancels Hunt: No ammunition.
+The flying {tea wood bolt} strikes the wild boar in the right rear leg, tearing the muscle!
+Udil Lolorgulnas, Woodcrafter: Help!  Save me!
+Tun Cilobesmul, Mason cancels Milk Animal: No creature.
+Udil Lolorgulnas, Woodcrafter: I must withdraw!
+Tun Cilobesmul, Mason cancels Shear Animal: No creature.
+Udil Lolorgulnas, Woodcrafter: Help!  Save me!
+The wild boar stands up.
+Resuming production: yarn body part
+Resuming production: milk liquid
+Momuz Oddomamost, Farmer cancels Make leather trousers: Needs tanned hide.
+Resuming production: leather trousers
+Momuz Oddomamost, Farmer cancels Make leather helm: Needs tanned hide.
+Doren Keskalnikot, Miner cancels Make leather glove: Needs tanned hide.
+Momuz Oddomamost, Farmer cancels Make leather high boot: Needs tanned hide.
+Momuz Oddomamost, Farmer cancels Make leather Quiver: Needs tanned hide.
+Momuz Oddomamost, Farmer cancels Make leather armor: Needs tanned hide.
+Stopping production: wood chair
+Resuming production: leather armor
+Resuming production: leather helm
+Resuming production: leather high boot
+Resuming production: leather quiver
+You have struck galena!
+Resuming production: wood chair
+Udil Lolorgulnas has become a Carpenter.
+Momuz Oddomamost, Farmer cancels Make leather trousers: Needs tanned hide.
+Momuz Oddomamost, Farmer cancels Make leather helm: Needs tanned hide.
+Resuming production: leather trousers
+Resuming production: leather helm
+Momuz Oddomamost, Farmer cancels Make leather high boot: Needs tanned hide.
+Al†th Isonal†th, Bookbinder cancels Make leather Quiver: Needs tanned hide.
+Olon Logemsulus, Tanner cancels Make leather armor: Needs tanned hide.
+Stopping production: wood box/bag
+Resuming production: leather armor
+Resuming production: leather high boot
+Resuming production: leather quiver
+Al†th Isonal†th, Bookbinder cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Momuz Oddomamost, Farmer cancels Shear Animal: No creature.
+The Stray Puppy (Tame) has been slaughtered.
+Resuming production: yarn body part
+Doren Keskalnikot, Miner cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+The farmer has been stung by a honey bee!
+Stopping production: wood chair
+Tholtig Reggusil, chief medical dwarf cancels Make leather trousers: Needs tanned hide.
+Tholtig Reggusil, chief medical dwarf cancels Make leather helm: Needs tanned hide.
+Domas Sarvesht“sed, Lye Maker cancels Make leather high boot: Needs tanned hide.
+The flying {tea wood bolt} strikes the wild boar in the left rear leg, tearing the fat and bruising the muscle!
+The Stray Puppy (Tame) has been slaughtered.
+Udil Lolorgulnas, Carpenter cancels Make leather Quiver: Needs tanned hide.
+The flying {tea wood bolt} strikes the wild boar in the left front leg, tearing the fat and bruising the muscle!
+Udil Lolorgulnas, Carpenter cancels Make leather armor: Needs tanned hide.
+The flying {tea wood bolt} strikes the wild boar in the right front leg, tearing the fat and bruising the muscle!
+Resuming production: leather armor
+Resuming production: leather trousers
+Resuming production: leather helm
+Resuming production: leather high boot
+Resuming production: leather quiver
+The Stray Puppy (Tame) has been slaughtered.
+The flying {tea wood bolt} strikes the wild boar in the left rear leg, tearing the fat and bruising the muscle!
+The flying {tea wood bolt} strikes the wild boar in the upper body, tearing the fat and bruising the muscle and bruising the liver!
+The flying {tea wood bolt} strikes the wild boar in the upper body, tearing the fat and bruising the muscle!
+The flying {tea wood bolt} strikes the wild boar in the right front leg, tearing the fat and bruising the muscle!
+The flying {tea wood bolt} strikes the wild boar in the head, tearing the fat and bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The wild boar collapses and falls to the ground from over-exertion.
+The wild boar stands up.
+The flying {tea wood bolt} strikes the wild boar in the lower body, tearing the fat and bruising the muscle and bruising the spleen!
+The wild boar collapses and falls to the ground from over-exertion.
+The flying {tea wood bolt} strikes the wild boar in the left rear leg, tearing the muscle!
+The flying {tea wood bolt} strikes the wild boar in the head, tearing the muscle!
+The force pulls the neck, tearing apart the skin!
+The flying {tea wood bolt} strikes the wild boar in the lower body, tearing the muscle and bruising the guts!
+The flying {-tea wood bolt-} strikes the wild boar in the right rear leg, tearing the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the left front leg, tearing the muscle!
+Spring has arrived on the calendar.
+M–thkat Aranavuz has become a bookkeeper.
+Sibrek Tostastesh has become a Axedwarf.
+The flying {-tea wood bolt-} strikes the wild boar in the neck, tearing the muscle and bruising the upper spine's bone!
+The flying {-tea wood bolt-} strikes the wild boar in the right front leg, tearing the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the lower body, tearing the muscle and bruising the guts!
+The wild boar looks sick!
+The wild boar vomits.
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the left rear leg, tearing the muscle!
+The wild boar vomits.
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the right front leg, tearing the muscle!
+The wild boar vomits.
+The flying {-tea wood bolt-} strikes the wild boar in the upper body, tearing the muscle and bruising the heart!
+The wild boar retches.
+Resuming production: leather glove
+The wild boar vomits.
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the right tusk, but the attack glances away!
+The force twists the head, bruising the skin!
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the upper body, tearing the muscle and bruising the left lung!
+The wild boar is having trouble breathing!
+The flying {-tea wood bolt-} strikes the wild boar in the right rear leg, tearing the muscle!
+The wild boar vomits.
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the head, tearing the muscle!
+The force bends the neck, tearing apart the skin!
+The flying {-tea wood bolt-} strikes the wild boar in the right rear hoof, but the attack glances away!
+The force bends the right rear leg!
+The wild boar vomits.
+Tobul Nil“sust, Miner cancels Cut blue garnet: Needs rough blue garnets.
+The flying {-tea wood bolt-} strikes the wild boar in the lower body, tearing the muscle and bruising the guts!
+The wild boar vomits.
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the left front leg, tearing the muscle!
+Tobul Nil“sust, Miner cancels Prepare a Raw Fish: Needs unrotten raw fish.
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the left rear hoof, but the attack glances away!
+The force twists the left rear leg!
+The flying {-tea wood bolt-} strikes the wild boar in the left rear leg, tearing the muscle!
+The wild boar vomits.
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the right front leg, tearing the muscle!
+Domas Sarvesht“sed has become a Speardwarf.
+The flying {-tea wood bolt-} strikes the wild boar in the upper body, tearing the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the lower body, tearing the muscle and bruising the guts!
+The wild boar looks sick!
+The wild boar vomits.
+The wild boar retches.
+Bomrek NishrŒthol, Planter cancels Harvest Plants: Handling dangerous creature.
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The flying {citron wood bolt} strikes the wild boar in the lower body, tearing the muscle and bruising the lower spine's bone!
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The flying {citron wood bolt} strikes the wild boar in the upper body, tearing the muscle and bruising the right lung!
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The flying {citron wood bolt} strikes the wild boar in the throat, tearing the skin!
+A major artery has been opened by the attack!
+The force bends the neck, tearing apart the skin!
+The flying {citron wood bolt} strikes the wild boar in the right front leg, tearing the muscle!
+The wild boar vomits.
+The wild boar retches.
+The flying {citron wood bolt} strikes the wild boar in the left rear leg, tearing the muscle!
+Resuming production: wood bolt
+M–thkat Aranavuz, bookkeeper cancels Make leather glove: Needs tanned hide.
+M–thkat Aranavuz, bookkeeper cancels Make leather helm: Needs tanned hide.
+Rakust Ubbuliseth, Farmer cancels Make leather high boot: Needs tanned hide.
+Rakust Ubbuliseth, Farmer cancels Make leather Quiver: Needs tanned hide.
+Resuming production: leather helm
+Resuming production: leather glove
+Resuming production: leather high boot
+Resuming production: leather quiver
+Rakust Ubbuliseth, Farmer cancels Make leather armor: Needs tanned hide.
+Tholtig Reggusil, chief medical dwarf cancels Make leather trousers: Needs tanned hide.
+The Stray Poult (Tame) has been slaughtered.
+Momuz Oddomamost, Farmer cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Resuming production: leather armor
+Resuming production: leather trousers
+The flying {citron wood bolt} strikes the wild boar in the left front leg, tearing the fat and bruising the muscle!
+The flying {citron wood bolt} strikes the wild boar in the right front leg, tearing the fat and bruising the muscle!
+The flying {citron wood bolt} strikes the wild boar in the left rear leg, tearing the fat and bruising the muscle!
+The flying {citron wood bolt} strikes the wild boar in the left front leg, tearing the fat and bruising the muscle!
+Al†th Isonal†th, Bookbinder: Death is all around us.  I'm not uneasy.
+The flying {-tea wood bolt-} strikes the wild boar in the upper body, tearing the fat and bruising the muscle and bruising the left lung!
+The wild boar is having trouble breathing!
+The flying {-tea wood bolt-} strikes the wild boar in the left rear leg, tearing the fat and bruising the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the left front leg, tearing the fat and bruising the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the mouth, tearing the muscle!
+The force bends the head, bruising the skin!
+The flying {-tea wood bolt-} strikes the wild boar in the left rear leg, tearing the fat and bruising the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the right rear leg, tearing the fat and bruising the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the lower body, tearing the fat and bruising the muscle and bruising the pancreas!
+The flying {-tea wood bolt-} strikes the wild boar in the throat, tearing the skin!
+The force twists the neck, tearing apart the skin!
+The flying {-tea wood bolt-} strikes the wild boar in the right rear leg, tearing the fat and bruising the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the lower body, tearing the fat and bruising the muscle and bruising the right kidney!
+The flying {-tea wood bolt-} strikes the wild boar in the right front leg, tearing the fat and bruising the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the left rear leg, tearing the fat and bruising the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the right front leg, tearing the fat and bruising the muscle!
+Al†th Isonal†th, Bookbinder cancels Hunt: No ammunition.
+The flying {-tea wood bolt-} strikes the wild boar in the right rear leg, tearing the fat and bruising the muscle!
+Al†th Isonal†th, Bookbinder: I must withdraw!
+The stray dog scratches the wild boar sow in the head, denting the skin and bruising the fat!
+Rakust Ubbuliseth, Farmer cancels Milk Animal: No creature.
+The stray dog misses the wild boar sow!
+The wild boar sow misses the stray dog!
+The stray dog misses the wild boar sow!
+The wild boar sow charges at the stray dog!
+The wild boar sow collides with the stray dog!
+The stray dog is knocked over and tumbles backward!
+The stray dog stands up.
+The stray dog misses the wild boar sow!
+The wild boar sow misses the stray dog!
+The stray dog attacks the wild boar sow but She jumps away!
+Rakust Shig¢sasmel, Miner cancels Shear Animal: No creature.
+The stray dog is no longer stunned.
+Doren Keskalnikot, Miner cancels Make leather helm: Needs tanned hide.
+Resuming production: yarn body part
+Resuming production: leather helm
+Likot Nebshem, Bookbinder cancels Make leather high boot: Needs tanned hide.
+Likot Nebshem, Bookbinder cancels Make leather Quiver: Needs tanned hide.
+Asmel Ed‰mkodor, Stonecrafter cancels Spin Thread: Needs unrotten hair/wool body part.
+There is nothing to catch in the central swamps.
+Likot Nebshem, Bookbinder cancels Make leather armor: Needs tanned hide.
+Likot Nebshem, Bookbinder cancels Make leather trousers: Needs tanned hide.
+Stopping production: wood bolt
+Resuming production: leather armor
+Resuming production: leather trousers
+Resuming production: leather high boot
+Resuming production: leather quiver
+The Stray Poult (Tame) has been slaughtered.
+Tun Cilobesmul, Mason cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Asmel Ed‰mkodor, Stonecrafter cancels Pickup Equipment: Equipment mismatch.
+Momuz Oddomamost, Farmer cancels Shear Animal: No creature.
+The stray dog scratches the wild boar in the lower body, denting the skin and bruising the fat!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog misses the wild boar!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog scratches the wild boar in the left rear leg, denting the skin and bruising the muscle!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog attacks the wild boar but He jumps away!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog attacks the wild boar but He jumps away!
+The wild boar kicks the stray dog in the right rear paw with his right front hoof, but the attack glances away!
+The stray dog scratches the wild boar in the left rear leg, denting the skin and bruising the fat!
+The wild boar misses the stray dog!
+Al†th Isonal†th has become a Hunter.
+The stray dog attacks the wild boar but He jumps away!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog attacks the wild boar but He jumps away!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog attacks the wild boar but He jumps away!
+The wild boar misses the stray dog!
+The stray dog misses the wild boar!
+The wild boar kicks the stray dog in the upper body with his left rear hoof, bruising the muscle and bruising the right lung!
+The stray dog is having trouble breathing!
+The stray dog scratches the wild boar in the right rear leg, denting the skin and bruising the fat!
+Likot Nebshem, Bookbinder cancels Make leather helm: Needs tanned hide.
+Resuming production: yarn body part
+Resuming production: leather helm
+Likot Nebshem, Bookbinder cancels Make leather high boot: Needs tanned hide.
+Žs Ost†blel, Leatherworker cancels Make leather Quiver: Needs tanned hide.
+Žs Ost†blel, Leatherworker cancels Make leather armor: Needs tanned hide.
+The stray dog stands up.
+Momuz Oddomamost, Farmer cancels Make leather trousers: Needs tanned hide.
+Doren Keskalnikot, Miner cancels Make leather glove: Needs tanned hide.
+The stray dog attacks the wild boar but He jumps away!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog attacks the wild boar but He jumps away!
+The wild boar attacks the stray dog but She jumps away!
+The stray dog attacks the wild boar but He jumps away!
+The stray dog misses the wild boar!
+The stray dog attacks the wild boar but He jumps away!
+The wild boar misses the stray dog!
+The stray dog scratches the wild boar in the right rear leg, denting the skin and bruising the fat!
+Resuming production: leather armor
+Resuming production: leather trousers
+Resuming production: leather glove
+Resuming production: leather high boot
+Resuming production: leather quiver
+The wild boar attacks the stray dog but She jumps away!
+The stray dog attacks the wild boar but He jumps away!
+The stray dog misses the wild boar!
+The wild boar misses the stray dog!
+The stray dog attacks the wild boar but He jumps away!
+The wild boar misses the stray dog!
+The stray dog scratches the wild boar in the right rear leg, denting the skin and bruising the muscle!
+The stray dog scratches the wild boar in the right front leg, denting the skin and bruising the muscle!
+The wild boar kicks the stray dog in the head with his right rear hoof, bruising the muscle!
+The force pulls the neck, tearing apart the fat!
+The stray dog attacks the wild boar but He jumps away!
+The stray dog misses the wild boar!
+The wild boar misses the stray dog!
+The stray dog attacks the wild boar but He jumps away!
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+You have struck galena!
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+Likot Nebshem, Bookbinder cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Stukos Atheladag, Fisherdwarf cancels Tan a hide: Needs unrotten TAN_MAT-producing body part.
+The Stray Poult (Tame) has been slaughtered.
+The flying {-tea wood bolt-} strikes the wild boar in the left front hoof, but the attack glances away!
+The force twists the left front leg!
+Cannot produce: wood table
+Resuming production: yarn body part
+Resuming production: leather armor
+Resuming production: leather trousers
+Resuming production: leather helm
+Resuming production: leather glove
+Resuming production: leather high boot
+Resuming production: leather quiver
+Momuz Oddomamost, Farmer cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Resuming production: drink
+You have struck blue garnet!
+Žs Ost†blel, Leatherworker cancels Make leather high boot: Needs tanned hide.
+Žs Ost†blel, Leatherworker cancels Make leather Quiver: Needs tanned hide.
+Žs Ost†blel, Leatherworker cancels Make leather armor: Needs tanned hide.
+Žs Ost†blel, Leatherworker cancels Make leather trousers: Needs tanned hide.
+Žs Ost†blel, Leatherworker cancels Make leather glove: Needs tanned hide.
+Žs Ost†blel, Leatherworker cancels Make leather helm: Needs tanned hide.
+Resuming production: leather armor
+Resuming production: leather trousers
+Resuming production: leather helm
+Resuming production: leather glove
+Resuming production: leather high boot
+Resuming production: leather quiver
+Žs Ost†blel, Leatherworker cancels Shear Animal: No creature.
+Resuming production: yarn body part
+The Stray Poult (Tame) has been slaughtered.
