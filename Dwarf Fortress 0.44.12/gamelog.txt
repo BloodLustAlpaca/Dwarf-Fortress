@@ -2137,3 +2137,9 @@ Resuming production: leather quiver
 Žs Ost†blel, Leatherworker cancels Shear Animal: No creature.
 Resuming production: yarn body part
 The Stray Poult (Tame) has been slaughtered.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).

@@ -1,4 +1,2 @@
 Running PyLNP 0.13b (OS: win, Compiled: True)
 INFO: Read installed graphics (Spacefox) from log
-INFO: Installing embark profiles: [u'default_profiles.txt', u'tutorial_profiles.txt']
-INFO: Installing embark profiles: [u'default_profiles.txt']
