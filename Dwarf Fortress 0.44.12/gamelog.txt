@@ -2143,3 +2143,309 @@ Spring has arrived on the calendar.
 The weather has cleared.
 Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
 Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region3, Kar Gomath (The Dimensions of Legend) at coordinates (11,104)
+Loaded the fortress DŠgkol (Evenwheels), colonized by the group Neb‹teb (The Brown Post) of the civilization Sedilid (The Angelic Rocks).
+The flying {-tea wood bolt-} strikes the wild boar in the upper body, tearing the fat and bruising the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the lower body, tearing the fat and bruising the muscle and bruising the pancreas!
+The flying {-tea wood bolt-} strikes the wild boar in the upper body, tearing the fat and bruising the muscle!
+Cannot produce: wood table
+Resuming production: yarn body part
+Resuming production: leather armor
+Resuming production: leather trousers
+Resuming production: leather helm
+Resuming production: leather glove
+Resuming production: leather high boot
+Resuming production: leather quiver
+Ustuth Onollerteth, broker cancels Shear Animal: No creature.
+Tholtig Reggusil, chief medical dwarf cancels Make leather high boot: Needs tanned hide.
+Tholtig Reggusil, chief medical dwarf cancels Make leather Quiver: Needs tanned hide.
+Stray Dog (Tame) has given birth to puppies.
+Resuming production: yarn body part
+Resuming production: leather high boot
+Resuming production: leather quiver
+M–thkat Aranavuz, bookkeeper cancels Make leather armor: Needs tanned hide.
+The flying {-tea wood bolt-} strikes the wild boar in the right front leg, tearing the fat and bruising the muscle!
+Stray Dog (Tame) has given birth to puppies.
+The flying {-tea wood bolt-} strikes the wild boar in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The flying {-tea wood bolt-} strikes the wild boar in the right front leg, tearing the fat and bruising the muscle!
+The flying {-tea wood bolt-} strikes the wild boar in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The wild boar looks sick!
+Asmel Ed‰mkodor, Stonecrafter cancels Make leather trousers: Needs tanned hide.
+The wild boar vomits.
+The flying {-tea wood bolt-} strikes the wild boar in the upper body, tearing the fat and bruising the muscle!
+The wild boar retches.
+Asmel Ed‰mkodor, Stonecrafter cancels Make leather glove: Needs tanned hide.
+The flying {-tea wood bolt-} strikes the wild boar in the lower body, tearing the fat and bruising the muscle and bruising the right kidney!
+The wild boar vomits.
+The flying {-tea wood bolt-} strikes the wild boar in the upper body, tearing the muscle and bruising the heart!
+Asmel Ed‰mkodor, Stonecrafter cancels Make leather helm: Needs tanned hide.
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the left rear leg, tearing the muscle!
+The wild boar retches.
+Resuming production: biscuits
+Resuming production: leather armor
+Resuming production: leather trousers
+Resuming production: leather helm
+Resuming production: leather glove
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the lower body, tearing the muscle and bruising the left kidney!
+The wild boar vomits.
+The wild boar retches.
+The flying {-tea wood bolt-} strikes the wild boar in the right rear leg, tearing the muscle!
+The wild boar retches.
+The wild boar vomits.
+Al†th Isonal†th, Hunter cancels Hunt: No ammunition.
+The flying {-tea wood bolt-} strikes the wild boar in the right front leg, tearing the muscle!
+The wild boar retches.
+Al†th Isonal†th, Hunter: I must withdraw!
+The wild boar vomits.
+Al†th Isonal†th, Hunter: I must withdraw!
+The wild boar vomits.
+The wild boar retches.
+Al†th Isonal†th, Hunter: I must withdraw!
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+Al†th Isonal†th, Hunter: I must withdraw!
+The wild boar retches.
+Al†th Isonal†th, Hunter: I must withdraw!
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+Al†th Isonal†th, Hunter: I must withdraw!
+The wild boar retches.
+The wild boar vomits.
+The wild boar retches.
+Al†th Isonal†th, Hunter: I must withdraw!
+The wild boar vomits.
+The wild boar retches.
+The wild boar vomits.
+M–thkat Aranavuz, bookkeeper cancels Shear Animal: No creature.
+A elven caravan from Danaova has arrived.
+Rakust Ubbuliseth, Farmer cancels Pickup Equipment: Equipment mismatch.
+The Stray Poult (Tame) has been slaughtered.
+Stukos Atheladag, Fisherdwarf cancels Make leather high boot: Needs tanned hide.
+Resuming production: yarn body part
+Resuming production: leather high boot
+Likot Nebshem, Bookbinder cancels Make leather Quiver: Needs tanned hide.
+Likot Nebshem, Bookbinder cancels Make leather armor: Needs tanned hide.
+ThŒkutubbul, Stray Dog (Tame) has given birth to a puppy.
+Resuming production: leather armor
+Resuming production: leather quiver
+Likot Nebshem, Bookbinder cancels Make leather trousers: Needs tanned hide.
+Likot Nebshem, Bookbinder cancels Make leather glove: Needs tanned hide.
+Likot Nebshem, Bookbinder cancels Make leather helm: Needs tanned hide.
+Resuming production: leather trousers
+Resuming production: leather helm
+Resuming production: leather glove
+Merchants have arrived and are unloading their goods.
+Stray Dog (Tame) has given birth to puppies.
+Tosid Ducimokil, Tavern Keeper cancels Prepare a Raw Fish: Taken by mood.
+Tosid Ducimokil, Tavern Keeper is taken by a fey mood!
+Doren Keskalnikot, Miner cancels Pickup Equipment: Equipment mismatch.
+The Stray Poult (Tame) has been slaughtered.
+Tosid Ducimokil has claimed a Carpenter's Workshop.
+Stopping production: biscuits
+Tholtig Reggusil, chief medical dwarf cancels Shear Animal: No creature.
+Stukos Atheladag, Fisherdwarf cancels Make leather high boot: Needs tanned hide.
+Momuz Oddomamost, Farmer cancels Make leather Quiver: Needs tanned hide.
+Žs Ost†blel, Leatherworker cancels Make leather armor: Needs tanned hide.
+Resuming production: yarn body part
+Resuming production: leather armor
+Resuming production: leather high boot
+Resuming production: leather quiver
+Tosid Ducimokil has begun a mysterious construction!
+Momuz Oddomamost, Farmer cancels Make leather trousers: Needs tanned hide.
+Resuming production: leather trousers
+Udil Lolorgulnas, Carpenter cancels Make leather glove: Needs tanned hide.
+Udil Lolorgulnas, Carpenter cancels Make leather helm: Needs tanned hide.
+Resuming production: leather helm
+Resuming production: leather glove
+You have struck blue garnet!
+Asmel Ed‰mkodor, Stonecrafter cancels Plant Seeds: Needs plump helmet spawn.
+Momuz Oddomamost, Farmer cancels Make leather Quiver: Needs tanned hide.
+Tun Cilobesmul, Mason cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Resuming production: leather quiver
+Momuz Oddomamost, Farmer cancels Make leather high boot: Needs tanned hide.
+Stukos Atheladag, Fisherdwarf cancels Make leather armor: Needs tanned hide.
+Asmel Ed‰mkodor, Stonecrafter cancels Make leather trousers: Needs tanned hide.
+Resuming production: leather armor
+Resuming production: leather trousers
+Resuming production: leather high boot
+Žs Ost†blel, Leatherworker cancels Make leather glove: Needs tanned hide.
+Žs Ost†blel, Leatherworker cancels Make leather helm: Needs tanned hide.
+Tosid Ducimokil, Tavern Keeper has created Sersheshek, a bitter orange wood cabinet!  He claims it as a family heirloom.
+Resuming production: leather helm
+Resuming production: leather glove
+Stopping production: drink
+Olon Logemsulus, Tanner cancels Prepare a Raw Fish: Needs unrotten raw fish.
+You have struck galena!
+Some migrants have arrived.
+Domas Sarvesht“sed has become a Lye Maker.
+Rakust Shig¢sasmel has become a Recruit.
+M–thkat Aranavuz has become a bookkeeper.
+Zon Ishlumdumat has become a militia commander.
+Udil Lolorgulnas, Carpenter cancels Make leather Quiver: Needs tanned hide.
+Resuming production: leather quiver
+Stray Cat (Tame) has given birth to kittens.
+Asmel Ed‰mkodor has created a masterpiece slate mug!
+Adil Dakostegast, expedition leader cancels Pickup Equipment: Equipment mismatch.
+Stukos Atheladag, Fisherdwarf cancels Shear Animal: No creature.
+Resuming production: yarn body part
+Zon Ishlumdumat, militia commander cancels Make leather trousers: Needs tanned hide.
+Zon Ishlumdumat, militia commander cancels Make leather glove: Needs tanned hide.
+Tholtig Reggusil, chief medical dwarf cancels Make leather helm: Needs tanned hide.
+Tholtig Reggusil, chief medical dwarf cancels Make leather high boot: Needs tanned hide.
+Resuming production: wood bin
+Resuming production: leather trousers
+Resuming production: leather helm
+Resuming production: leather glove
+Resuming production: leather high boot
+Litast Desisdastot, Woodcutter cancels Make leather armor: Needs tanned hide.
+Resuming production: leather armor
+Imush Tabar‹ngiz, Trader cancels Pickup Equipment: Equipment mismatch.
+Tholtig Reggusil, chief medical dwarf cancels Pickup Equipment: Equipment mismatch.
+Resuming production: wood bolt
+Stopping production: wood bin
+Kumil Eribator has grown to become a Turkey Gobbler.
+The Stray Poult (Tame) has been slaughtered.
+Œton Edt–lrig•th, Stray Kitten (Tame) has adopted Tholtig Reggusil, chief medical dwarf.
+An animal has grown to become a Stray Bull.
+The stray dog attacks the coati but She jumps away!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the left front paw, tearing the fat!
+The coati scratches the stray dog in the right front paw, tearing the fat and bruising the muscle!
+The stray dog charges at the coati!
+The coati jumps away!
+The coati scratches the stray dog in the upper body, denting the skin and bruising the fat!
+The stray dog attacks the coati but She jumps away!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the right front leg, tearing the fat and bruising the muscle!
+The coati attacks the stray dog but She jumps away!
+The stray dog attacks the coati but She jumps away!
+The stray dog scratches the coati in the lower body, denting the skin and bruising the muscle and bruising the stomach!
+The stray dog scratches the coati in the fourth left front toe, shattering the nail!
+The force pulls the left front paw, tearing apart the skin!
+The coati has become enraged!
+The coati scratches the stray dog in the head, denting the skin and bruising the muscle!
+The force bends the neck!
+The coati misses the stray dog!
+The stray dog scratches the coati in the right front paw, fracturing the bone!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the head, tearing the fat and bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the right front leg, tearing the fat!
+The coati misses the stray dog!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the left rear paw, tearing the skin!
+The coati scratches the stray dog in the right front paw, tearing the fat and bruising the muscle!
+The stray dog scratches the coati in the left rear leg, tearing the fat and bruising the muscle!
+The coati attacks the stray dog but She jumps away!
+The coati misses the stray dog!
+The stray dog misses the coati!
+The coati attacks the stray dog but She jumps away!
+The stray dog misses the coati!
+The coati scratches the stray dog in the left rear paw, tearing the fat!
+The stray dog scratches the coati in the right front paw, tearing the fat and bruising the bone!
+The force pulls the right front leg!
+The coati attacks the stray dog but She jumps away!
+The coati misses the stray dog!
+The stray dog scratches the coati in the right rear paw, tearing the skin!
+The coati misses the stray dog!
+The stray dog charges at the coati!
+The stray dog collides with the coati!
+The coati is knocked over and tumbles backward!
+The coati stands up.
+The coati misses the stray dog!
+The stray dog scratches the coati in the left front leg, tearing the fat and bruising the muscle!
+The coati scratches the stray dog in the right rear leg, tearing the fat and bruising the muscle!
+The coati is no longer stunned.
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the left front paw, tearing the fat!
+The coati attacks the stray dog but She jumps away!
+The coati collapses and falls to the ground from over-exertion.
+The stray dog scratches the coati in the upper body, tearing the fat and bruising the muscle and bruising the left lung!
+The coati is having trouble breathing!
+The Stray Poult (Tame) has been slaughtered.
+Coati is no longer enraged.
+The coati stands up.
+Sarvesh Udarfikod, Potash Maker cancels Make leather Quiver: Needs tanned hide.
+Rakust Shig¢sasmel has become a Miner.
+M–thkat Aranavuz has become a bookkeeper.
+Sibrek Tostastesh has become a manager.
+Domas Sarvesht“sed has become a Speardwarf.
+Rakust Shig¢sasmel has become a Recruit.
+Zon Ishlumdumat has become a militia commander.
+Tosid Ducimokil has become a Marksdwarf.
+Resuming production: leather quiver
+Tosid Ducimokil, Marksdwarf cancels Pickup Equipment: Equipment mismatch.
+Zon Ishlumdumat, militia commander cancels Pickup Equipment: Equipment mismatch.
+L•r Riththad, Stonecrafter cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Sarvesh Udarfikod, Potash Maker cancels Make leather trousers: Needs tanned hide.
+Resuming production: leather trousers
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the left rear leg, denting the skin and bruising the muscle!
+The coati misses the stray dog!
+The stray dog attacks the coati but She jumps away!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the right front paw, tearing the skin!
+The coati misses the stray dog!
+Sarvesh Udarfikod, Potash Maker cancels Make leather glove: Needs tanned hide.
+The stray dog misses the coati!
+The coati attacks the stray dog but She jumps away!
+The stray dog scratches the coati in the upper body, tearing the fat and bruising the muscle and bruising the left lung!
+The coati scratches the stray dog in the upper body, tearing the fat and bruising the muscle and bruising the liver!
+The stray dog scratches the coati in the upper body, tearing the fat and bruising the muscle and bruising the right lung!
+The coati is having trouble breathing!
+The coati scratches the stray dog in the right rear paw, tearing the fat and bruising the muscle!
+The stray dog scratches the coati in the right front leg, tearing the fat and bruising the muscle!
+The stray dog charges at the coati!
+The stray dog collides with the coati!
+The coati is knocked over and tumbles backward!
+Sarvesh Udarfikod, Potash Maker cancels Make leather helm: Needs tanned hide.
+The Stray Poult (Tame) has been slaughtered.
+Ral Musaradil, Wax Worker cancels Shear Animal: No creature.
+Logem SemoratŒs, Wax Worker cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Resuming production: yarn body part
+Resuming production: leather helm
+Resuming production: leather glove
+Žs Ost†blel, Leatherworker cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Žs Ost†blel, Leatherworker cancels Make leather high boot: Needs tanned hide.
+Stopping production: wood bolt
+Resuming production: leather high boot
+Likot Nebshem, Bookbinder cancels Make leather armor: Needs tanned hide.
+Olon Logemsulus, Tanner cancels Tan a hide: Needs unrotten TAN_MAT-producing body part.
+Resuming production: leather armor
+Udil Lolorgulnas, Carpenter cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+The merchants from Danaova will be leaving soon.
+L•r Riththad, Stonecrafter cancels Assemble dum: Needs dum blowpipe.
+The Stray Poult (Tame) has been slaughtered.
+Logem SemoratŒs, Wax Worker cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+x2
+Sibrek Tostastesh, manager cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Asmel Ed‰mkodor, Stonecrafter cancels Assemble dum: Needs dum blowpipe.
+Dastot “sustŠrith, Animal Dissector cancels Cut blue garnet: Needs rough blue garnets.
+x2
+Id Eshtƒnnanir, Armorer cancels Drink: Job item lost or destroyed.
+Litast Desisdastot, Woodcutter cancels Drink: Job item lost or destroyed.
+Resuming production: drink
+Ingish Olontishis, Bone Carver cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Sarvesh Nomaldostob, Bowyer cancels Drink: Job item lost or destroyed.
+Olin F“kerfath, Engraver cancels Drink: Job item lost or destroyed.
+—shrir Tiristdod¢k, militia captain cancels Drink: Job item lost or destroyed.
+Oddom Mebzuthkalur, Clothier cancels Drink: Job item lost or destroyed.
+Mafol •nulshoduk, Cheese Maker cancels Drink: Job item lost or destroyed.
+The Stray Poult (Tame) has been slaughtered.
+Bomrek NishrŒthol, Planter cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Likot Nebshem, Bookbinder cancels Mash plant into slurry: Needs unrotten PRESS_PAPER_MAT-producing plants.
+Ingish Olontishis, Bone Carver cancels Drink: Job item lost or destroyed.
+L•r Riththad, Stonecrafter cancels Drink: Job item lost or destroyed.
+The merchants from Danaova have embarked on their journey.
